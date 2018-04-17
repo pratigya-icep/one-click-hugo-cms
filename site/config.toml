@@ -110,28 +110,99 @@ paginate = 10
     weight = 2
 
 
-#
-# [[menu.main]]
-#     parent = "courses"
-#     name = "Select Courses2"
-#     url  = "/courses/"
-#     weight = 20
-#     identifier = "choe"
-#     HasChildren = true
-#
-# [[menu.main]]
-#     parent = "choe"
-#     name = "Select Courses3"
-#     url  = "/courses/"
-#     weight = 20
-#     HasChildren = true
-
-
 [[menu.main]]
     name = "Resources"
-    identifier = "resources"
     url  = "/resources/"
     weight = 3
+    identifier = "resources"
+    HasChildren = true
+
+[[menu.main]]
+    name = "Syllabus"
+    url  = "/resources/syllabus"
+    identifier = "syllabus"
+    parent = "resources"
+    weight = 1
+    HasChildren = true
+
+[[menu.main]]
+    parent = "syllabus"
+    name = "UPSC Pre Syllabus"
+    url  = "/resources/syllabus/upsc-pre-syllabus"
+    weight = 1
+
+[[menu.main]]
+    parent = "syllabus"
+    name = "UPPSC Mains Syllabus"
+    url  = "/resources/syllabus/upsc-mains-syllabus"
+    weight = 2
+
+[[menu.main]]
+    name = "Booklet"
+    url  = "/resources/booklet"
+    identifier = "booklet"
+    parent = "resources"
+    weight = 2
+    HasChildren = true
+
+[[menu.main]]
+    parent = "booklet"
+    name = "UPSC Pre"
+    url  = "/resources/booklet/upsc-pre"
+    weight = 1
+
+[[menu.main]]
+    parent = "booklet"
+    name = "UPSC Mains Booklet"
+    url  = "/resources/booklet/upsc-mains"
+    weight = 2
+
+[[menu.main]]
+    name = "Previous Years Papers"
+    url  = "/resources/previous-years-papers"
+    identifier = "prev-year-paper"
+    parent = "resources"
+    weight = 3
+    HasChildren = true
+
+[[menu.main]]
+    parent = "prev-year-paper"
+    name = "UPSC Prelims"
+    url  = "/resources/previous-years-papers/upsc-prelims"
+    weight = 1
+
+[[menu.main]]
+    parent = "prev-year-paper"
+    name = "UPSC Mains"
+    url  = "/resources/previous-years-papers/upsc-mains"
+    weight = 2
+
+[[menu.main]]
+    name = "Pratigya"
+    url  = "/resources/pratigya"
+    identifier = "pratigya"
+    parent = "resources"
+    weight = 4
+    HasChildren = true
+
+[[menu.main]]
+    parent = "pratigya"
+    name = "Notifications"
+    url  = "/resources/pratigya/notifications"
+    weight = 1
+
+[[menu.main]]
+    parent = "pratigya"
+    name = "Prospectus"
+    url  = "/resources/pratigya/propectus"
+    weight = 2
+
+
+# [[menu.main]]
+#     name = "Resources"
+#     identifier = "resources"
+#     url  = "/resources/"
+#     weight = 3
 
 [[menu.main]]
     name = "Blog"
