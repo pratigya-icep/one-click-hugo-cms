@@ -5,8 +5,8 @@
         <div class="container">
             <div class="navbar-header">
                 <a class="navbar-brand home" href="{{ .Site.BaseURL }}">
-                    <img src="{{ .Site.BaseURL }}img/logo.png" alt="{{ .Title }} logo" class="hidden-xs hidden-sm">
-                    <img src="{{ .Site.BaseURL }}img/logo-small.png" alt="{{ .Title }} logo" class="visible-xs visible-sm">
+                    <img src="{{ .Site.BaseURL }}img/logo.jpg" alt="{{ .Title }} logo" class="hidden-xs hidden-sm">
+                    <img src="{{ .Site.BaseURL }}img/logo.jpg" alt="{{ .Title }} logo" class="visible-xs visible-sm">
                     <span class="sr-only">{{ .Title }} - {{ i18n "navHome" }}</span>
                 </a>
                 <div class="navbar-buttons">
@@ -19,15 +19,75 @@
             <!--/.navbar-header -->
 
             <div class="navbar-collapse collapse" id="navigation">
+              <!-- <ul class="nav navbar-nav navbar-left">
+                                  <li class="dropdown">
+                                      <a href="#" class="dropdown-toggle" data-toggle="dropdown">Select Course<b class="caret"></b></a>
+                                      <ul class="dropdown-menu multi-column columns-2">
+                                          <div class="row" style="min-width: 386px;">
+                                              <div class="col-sm-5">
+                                                  <ul class="multi-column-dropdown">
+                                                      <li style="pointer-events: none;"><a class="blue font-small font-weight" disabled="">BANKING</a></li>
+                                                      <li><a href="./bank-syllabus.html">About</a></li>
+                                                      <li><a href="./bank-coaching.html">Bank Coaching</a></li>
+                                                      <li><a href="./online-bank-coaching.html">Video Courses</a></li>
+                                                      <li><a href="./online-test-series.html">Online Test Series</a></li>
+                                                      <li><a href="./bank-exams-interview-coaching.html">Interview Classes</a></li>
+                                                      <li><a href="./correspondence-courses.html">Correspondence Course</a></li>
+                                                  </ul>
+                                              </div>
+                                              <div class="col-sm-6">
+                                                  <ul class="multi-column-dropdown">
+                                                      <li style="pointer-events: none;"><a class="blue font-small font-weight" disabled="">SSC</a></li>
+                                                      <li><a href="./ssc-syllabus.html">About</a></li>
+                                                      <li><a href="./ssc-coaching.html">SSC Coaching</a></li>
+                                                      <li><a href="./online-ssc-coaching.html">Video Courses</a></li>
+                                                      <li><a href="./ssc-online-test-series.html">Online Test Series</a></li>
+                                                      <li><a href="./ssc-correspondence-courses.html">Correspondence Course</a></li>
+                                                  </ul>
+                                              </div>
+                                          </div>
+                                      </ul>
+                                  </li>
+                              </ul> -->
+
+                <!-- <ul class="nav navbar-nav navbar-right">
+                  {{ range .Site.Menus.main }}
+                  <li class="dropdown">
+                    {{ if .HasChildren }}
+                      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ .Name }} <span class="caret"></span></a>
+                    <ul class="dropdown-menu multi-column columns-2">
+                      {{ range .Children }}
+                        <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+                      {{ end }}
+                    </ul>
+                    {{ else }}
+                    <a href="{{ .URL }}">{{ .Name }}</a>
+                    {{ end  }}
+                  </li>
+                  {{ end }}
+                </ul> -->
                 <ul class="nav navbar-nav navbar-right">
                   {{ range .Site.Menus.main }}
                   <li class="dropdown">
                     {{ if .HasChildren }}
                       <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ .Name }} <span class="caret"></span></a>
-                    <ul class="dropdown-menu">
+                      <ul class="dropdown-menu multi-column columns-2">
+                        <div class="row" style="min-width: 786px;">
                       {{ range .Children }}
-                        <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+                        {{ if .HasChildren }}
+                            <div class="col-sm-3">
+                              <ul class="multi-column-dropdown">
+                                  <li style="pointer-events: none;"><a class="blue font-small font-weight" disabled="">{{ .Name }}</a></li>
+                                  {{ range .Children }}
+                                      <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+                                  {{ end }}
+                              </ul>
+                            </div>
+                        {{ else }}
+                          <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+                        {{ end }}
                       {{ end }}
+                    </div>
                     </ul>
                     {{ else }}
                     <a href="{{ .URL }}">{{ .Name }}</a>

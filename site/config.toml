@@ -23,20 +23,129 @@ paginate = 10
     weight = 1
 
 [[menu.main]]
-    name = "Blog"
-    url  = "/blog/"
+    name = "Select Courses"
+    url  = "/courses/"
+    weight = 2
+    identifier = "courses"
+    HasChildren = true
+
+[[menu.main]]
+    name = "UPSC"
+    url  = "/courses/UPSC"
+    weight = 5
+    identifier = "upsc"
+    parent = "courses"
+    HasChildren = true
+
+[[menu.main]]
+    parent = "upsc"
+    name = "About UPSC"
+    url  = "/UPSC/About"
+    weight = 1
+
+[[menu.main]]
+    parent = "upsc"
+    name = "GS (Pre-cum-Mains) 2019"
+    url  = "/UPSC/GS-2019"
     weight = 2
 
 [[menu.main]]
-    name = "FAQ"
-    identifier = "faq"
-    url  = "/faq/"
+    name = "UPPSC"
+    url  = "/courses/UPPSC"
+    weight = 6
+    identifier = "uppsc"
+    parent = "courses"
+    HasChildren = true
+
+[[menu.main]]
+    parent = "uppsc"
+    name = "About"
+    url  = "/UPPSC/About"
+    weight = 1
+
+[[menu.main]]
+    parent = "uppsc"
+    name = "Classroom Course"
+    url  = "/UPPSC/classroom-course"
+    weight = 2
+
+[[menu.main]]
+    name = "SSC"
+    url  = "/courses/SSC"
+    weight = 7
+    identifier = "ssc"
+    parent = "courses"
+    HasChildren = true
+
+[[menu.main]]
+    parent = "ssc"
+    name = "Bank-PO"
+    url  = "/UPPSC/bank-po"
+    weight = 1
+
+[[menu.main]]
+    parent = "ssc"
+    name = "Railway"
+    url  = "/UPPSC/railway"
+    weight = 2
+
+[[menu.main]]
+    name = "IB-ACIO"
+    url  = "/courses/IB-ACIO"
+    weight = 8
+    identifier = "ib"
+    parent = "courses"
+    HasChildren = true
+
+[[menu.main]]
+    parent = "ib"
+    name = "APFC"
+    url  = "/UPPSC/apfc"
+    weight = 1
+
+[[menu.main]]
+    parent = "ib"
+    name = "CPO-SI"
+    url  = "/UPPSC/cpo-si"
+    weight = 2
+
+
+#
+# [[menu.main]]
+#     parent = "courses"
+#     name = "Select Courses2"
+#     url  = "/courses/"
+#     weight = 20
+#     identifier = "choe"
+#     HasChildren = true
+#
+# [[menu.main]]
+#     parent = "choe"
+#     name = "Select Courses3"
+#     url  = "/courses/"
+#     weight = 20
+#     HasChildren = true
+
+
+[[menu.main]]
+    name = "Resources"
+    identifier = "resources"
+    url  = "/resources/"
     weight = 3
 
 [[menu.main]]
-    name = "Contact"
-    url  = "/contact/"
+    name = "Blog"
+    url  = "/blog/"
     weight = 4
+
+[[menu.main]]
+    name = "Alert"
+    url  = "/alert/"
+    weight = 5
+[[menu.main]]
+    name = "Enquiry"
+    url  = "/contact-us/"
+    weight = 6
 
 # Top bar social links menu
 
@@ -115,7 +224,7 @@ paginate = 10
 
 # Enable or disable top bar with social icons
 [params.topbar]
-    enable = true
+    enable = false
     text = """<p class="hidden-sm hidden-xs">Contact us on +420 777 555 333 or hello@universal.com.</p>
       <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
       <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
@@ -146,6 +255,14 @@ paginate = 10
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
     title = "Testimonials"
+    subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
+
+[params.topcourses]
+    enable = true
+    # All testimonials are defined in their own files. You can find example items
+    # at 'exampleSite/data/testimonials'.
+    # For more informtion take a look at the README.
+    title = "Top Courses"
     subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
 
 [params.see_more]

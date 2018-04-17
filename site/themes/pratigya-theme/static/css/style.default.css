@@ -350,7 +350,7 @@ ul.list-style-none {
 }
 .navbar ul.dropdown-menu li {
   list-style-type: none;
-  border-bottom: solid 1px #eeeeee;
+  /* border-bottom: solid 1px #eeeeee; */
   text-transform: uppercase;
   letter-spacing: 0.08em;
   padding: 4px 0;
@@ -1160,8 +1160,8 @@ fieldset[disabled] .btn-template-primary.active {
   filter: alpha(opacity=90);
 }
 .home-carousel .owl-carousel {
-  padding-top: 60px;
-  padding-bottom: 20px;
+  /* padding-top: 60px;
+  padding-bottom: 20px; */
 }
 .home-carousel .owl-theme .owl-controls .owl-page span {
   background: #666;
@@ -3529,7 +3529,7 @@ a.list-group-item.active > .badge,
 /*!
  * Yamm!3 - Yet another megamenu for Bootstrap 3
  * http://geedmo.github.com/yamm3
- * 
+ *
  * @geedmo - Licensed under the MIT license
  */
 .yamm .nav,
@@ -3554,4 +3554,202 @@ a.list-group-item.active > .badge,
 .yamm .dropdown.yamm-fw .dropdown-menu {
   left: 15px;
   right: 15px;
+}
+
+.three-shade-col:after,.gallery:after,.expandable-box-bottom:after,.team:after{
+    display:block;
+    content:'';
+    clear:both
+}
+
+.three-shade-col ul,.social{
+    padding:0;
+    margin:0;
+    list-style:none
+}
+.three-shade-col table{
+    text-align:left
+}
+.three-shade-col table td:last-child{
+    text-align:right
+}
+.three-shade-col{
+    text-align:center
+}
+.three-shade-col{
+    display:block
+}
+@media (min-width: 768px){
+    .three-shade-col{
+        display:-webkit-box;
+        display:-webkit-flex;
+        display:-ms-flexbox;
+        display:flex
+    }
+}
+.three-shade-col [class^="col-"]{
+    padding:60px 20px;
+    color:#fff
+}
+@media (min-width: 992px){
+    .three-shade-col [class^="col-"]{
+        padding-left:60px;
+        padding-right:60px
+    }
+}
+.three-shade-col [class^="col-"]:nth-child(1){
+    background:#3dadb2
+}
+.three-shade-col [class^="col-"]:nth-child(2){
+    background:#40b4ba
+}
+.three-shade-col [class^="col-"]:nth-child(3){
+    background:#44babf
+}
+.three-shade-col .icon{
+    font-size:2rem;
+    color:#fff
+}
+.three-shade-col h3{
+    color:#fff
+}
+.three-shade-col table{
+    width:100%
+}
+
+
+
+.three-shade-col-flip:after,.gallery:after,.expandable-box-bottom:after,.team:after{
+    display:block;
+    content:'';
+    clear:both
+}
+
+.three-shade-col-flip ul,.social{
+    padding:0;
+    margin:0;
+    list-style:none
+}
+.three-shade-col-flip table{
+    text-align:left
+}
+.three-shade-col-flip table td:last-child{
+    text-align:right
+}
+.three-shade-col-flip{
+    text-align:center
+}
+.three-shade-col-flip{
+    display:block
+}
+@media (min-width: 768px){
+    .three-shade-col-flip{
+        display:-webkit-box;
+        display:-webkit-flex;
+        display:-ms-flexbox;
+        display:flex
+    }
+}
+.three-shade-col-flip [class^="col-"]{
+    padding:60px 20px;
+    color:#fff
+}
+@media (min-width: 992px){
+    .three-shade-col-flip [class^="col-"]{
+        padding-left:60px;
+        padding-right:60px
+    }
+}
+.three-shade-col-flip [class^="col-"]:nth-child(3){
+    background:#3dadb2
+}
+.three-shade-col-flip [class^="col-"]:nth-child(1){
+    background:#40b4ba
+}
+.three-shade-col-flip [class^="col-"]:nth-child(2){
+    background:#44babf
+}
+.three-shade-col-flip .icon{
+    font-size:2rem;
+    color:#fff
+}
+.three-shade-col-flip h3{
+    color:#fff
+}
+.three-shade-col-flip table{
+    width:100%
+}
+.multi-column-dropdown {
+
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.dropdown-menu.columns-2 {
+
+    min-width: 500px;
+
+}
+
+.dropdown-menu {
+
+    position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 1000;
+    display: none;
+    float: left;
+    min-width: 160px;
+    padding: 5px 0;
+    margin: 2px 0 0;
+        margin-top: 2px;
+    font-size: 14px;
+    text-align: left;
+    list-style: none;
+    background-color: #fff;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+    border: 1px solid #ccc;
+    border: 1px solid rgba(0,0,0,.15);
+    border-radius: 4px;
+        border-top-left-radius: 4px;
+        border-top-right-radius: 4px;
+    -webkit-box-shadow: 0 6px 12px rgba(0,0,0,.175);
+    box-shadow: 0 6px 12px rgba(0,0,0,.175);
+
+}
+
+.multi-column-dropdown li a {
+
+    display: block;
+    clear: both;
+    line-height: 1.428571429;
+    color: #333;
+    white-space: normal;
+
+}
+
+.dropdown-menu li a {
+
+    padding: 5px 15px;
+    font-weight: 300;
+
+}
+
+.blue {
+
+    color: #01579b !important;
+
+}
+.font-weight {
+
+    font-weight: 600 !important;
+
+}
+.font-small {
+
+    font-size: 14px !important;
+
 }
