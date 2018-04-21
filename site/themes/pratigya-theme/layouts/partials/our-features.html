@@ -3,8 +3,8 @@
 {{ if gt (len .Site.Data.features) 0 }}
 <section class="bar background-white" style="padding-top: 0px;">
     <div class="container">
-      <div class="col-md-12">
-              <div class="row">
+      <!-- <div class="col-md-12"> -->
+              <!-- <div class="row"> -->
                     <div class="heading text-center">
                         <h2>Our Features</h2>
                     </div>
@@ -13,8 +13,8 @@
 
 		<!-- {{ if eq (mod $index 3) 0 }} -->
 		<!-- {{ end }} -->
-				<div class="col-md-4">
-                    <div class="box-simple" style="background-repeat:  no-repeat;background-image: url('img/feature/feature{{$index}}.jpg');background-size:  contain;padding: 10px;">
+				<div class="col-md-4" style="margin-bottom: 10px;margin-top: 10px;">
+                    <div class="box-simple" style="margin-bottom: 0px; min-height: 153px; background-repeat:  no-repeat;background-image: url('img/feature/feature{{$index}}.jpg');background-size:  contain;">
                         <!-- <div class="icon">
                             <i class="{{ .icon }}"></i>
                         </div>
@@ -23,10 +23,13 @@
                     </div>
                 </div>
 		<!-- {{ if or (eq (mod $index 3) 2) (eq $index (sub (len $.Site.Data.features) 1 )) }} -->
-			</div>
-		</div>
+			<!-- </div> -->
+		<!-- </div> -->
 		<!-- {{ end }} -->
         {{ end }}
+      </div>
+    <!-- </div> -->
+  </section>
 
 
     </div>

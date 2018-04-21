@@ -7,11 +7,11 @@ tags = ["blog", "company", "portfolio", "projects", "minimal", "responsive"]
 features = ["blog", "themes", "disqus", "minimal", "responsive"]
 min_version = 0.15
 
-[author]
-    name = "adrianmo"
-    homepage = "//github.com/adrianmo"
-
-# If Porting existing theme
-[original]
-    author =  "bootstrapious"
-    homepage = "http://bootstrapious.com/p/universal-business-e-commerce-template"
+# [author]
+#     name = "adrianmo"
+#     homepage = "//github.com/adrianmo"
+#
+# # If Porting existing theme
+# [original]
+#     author =  "bootstrapious"
+#     homepage = "http://bootstrapious.com/p/universal-business-e-commerce-template"
