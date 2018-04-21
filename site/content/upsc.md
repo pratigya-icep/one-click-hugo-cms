@@ -9,82 +9,92 @@ carousel = true
 +++
 
 # About UPSC
-The civil services offer fine opportunities to the youth for serving the people. Our country needs honest, efficient, competent and dynamic officers who know the ethos of the land. 
-Pessimists may contend that the pass percentage is abysmally low, making the effort of most candidates futile. In 2014, nearly 9.5 lakh candidates filed their applications. In 2016, there would be a million applicants, half of whom may appear in the preliminary exam, competing for a thousand seats. But there is a positive side. A candidate who prepares steadily for nearly 15 months with commitment for improving language skills, widening general knowledge, mastering strategies for facing objective as well as descriptive questions, perfecting interview techniques and building self-confidence will certainly have developed strong competitive muscles. This will help the candidate in winning any other competition of a similar nature. However, let us focus on success. The selection would be for nearly 24 services including the IFS, IAS and IPS.
+>
+**The civil services offer fine opportunities to the youth for serving the people. Our country needs honest, efficient, competent and dynamic officers who know the ethos of the land. 
+Pessimists may contend that the pass percentage is abysmally low, making the effort of most candidates futile. In 2014, nearly 9.5 lakh candidates filed their applications. In 2016, there would be a million applicants, half of whom may appear in the preliminary exam, competing for a thousand seats. But there is a positive side. A candidate who prepares steadily for nearly 15 months with commitment for improving language skills, widening general knowledge, mastering strategies for facing objective as well as descriptive questions, perfecting interview techniques and building self-confidence will certainly have developed strong competitive muscles. This will help the candidate in winning any other competition of a similar nature. However, let us focus on success. The selection would be for nearly 24 services including the IFS, IAS and IPS.**
+
+***
 
 
 
 
 {{< youtube id="w7Ft2ymGmfc" autoplay="false" >}}
 
+***
+
 ## EXAM PATTERN
 
 ![alt text](/img/banners/pre exam pattern.jpg "Logo Title Text 1")
 
-The preliminary stage consists of two papers, each of two hours. Each paper carries 200 marks and contains only objective-type multiple-choice questions, with 4 options against each question. There is negative marking for wrong answers. Paper 1 focuses on knowledge, while Paper 2 stresses logic. Calculators are not allowed in the test. You should score at least 33 per cent marks in Paper 2. The marks scored in the preliminary examination do not count for the final ranking. This is only a screening test for selecting the candidates for the main examination. The number of candidates to be admitted to the main examination will be about 13 times the vacancies.
+> **The preliminary stage consists of two papers, each of two hours. Each paper carries 200 marks and contains only objective-type multiple-choice questions, with 4 options against each question. There is negative marking for wrong answers. Paper 1 focuses on knowledge, while Paper 2 stresses logic. Calculators are not allowed in the test. You should score at least 33 per cent marks in Paper 2. The marks scored in the preliminary examination do not count for the final ranking. This is only a screening test for selecting the candidates for the main examination. The number of candidates to be admitted to the main examination will be about 13 times the vacancies.**
 
 ![alt text](/img/banners/mains exam pattern.jpg "Logo Title Text 1")
 
 ## ELIGIBILITY
-{{ $image := $resource.Fit "600x400" }} 
 
 ![alt text](/img/banners/eligibility.png "Logo Title Text 1") 
-{{ $image := $resource.Fit "600x400" }} 
 
-Anyone with a university degree or equivalent can apply for the civil services examination. There is no minimum mark restriction. Age limit: 21 to 32 years on August 1 of the year of notification. The upper-age limit can be relaxed in eligible cases. 
+> **Anyone with a university degree or equivalent can apply for the civil services examination. There is no minimum mark restriction. Age limit: 21 to 32 years on August 1 of the year of notification. The upper-age limit can be relaxed in eligible cases.**
+***
 
-Appearing to attempt one of the papers in the preliminary examination is counted as an attempt, including disqualification/ cancellation of candidature. However, applying to sit the exam but failing to attend is not counted as an attempt.
+> **_Appearing to attempt one of the papers in the preliminary examination is counted as an attempt, including disqualification/ cancellation of candidature. However, applying to sit the exam but failing to attend is not counted as an attempt._**
 
 ## SYLLABUS
 
 ### Syllabus For Prelims
 
 ### G S Paper-1
-
-•	Current events of national and international importance
-•	History of India and Indian National Movement
-•	Indian and World Geography-Physical, Social, Economic Geography of India and the World
-•	Indian Polity and Governance-Constitution, Political System, Panchayati Raj, Public Policy, Rights Issues, etc.
-•	Economic and Social Development-Sustainable Development, Poverty, Inclusion, Demographics, Social Sector Initiatives, etc.
-•	General issues on Environmental ecology, Bio-diversity and Climate Change – that do not require subject specialization
-•	General Science
+> 
+1. Current events of national and international importance.
+2. History of India and Indian National Movement.
+3. Indian and World Geography-Physical, Social, Economic Geography of India and the World
+4. Indian Polity and Governance-Constitution, Political System, Panchayati Raj, Public Policy, Rights Issues, etc.
+5. Economic and Social Development-Sustainable Development, Poverty, Inclusion, Demographics, Social Sector Initiatives, etc.
+6. General issues on Environmental ecology, Bio-diversity and Climate Change – that do not require subject specialization
+7. General Science**
 
 ### G S Paper-2 ( CSAT )
-
-•	Comprehension
-•	Interpersonal skills including communication skills
-•	Logical reasoning and analytical ability
-•	Decision making and problem-solving
-•	General mental ability
-•	Basic numeracy (numbers and their relations, orders of magnitude etc.) (Class X level)
-•	Data Interpretation (charts, graphs, tables, data sufficiency etc. (Class X level)
-•	English Language Comprehension skills (Class X level)
+>
+1. Comprehension
+2. Interpersonal skills including communication skills
+3. Logical reasoning and analytical ability
+4. Decision making and problem-solving
+5. General mental ability
+6. Basic numeracy (numbers and their relations, orders of magnitude etc.) (Class X level)
+7. Data Interpretation (charts, graphs, tables, data sufficiency etc. (Class X level)
+8. English Language Comprehension skills (Class X level)
 
 ### Syllabus for Mains
 
-#### QUALIFYING PAPERS ON INDIAN LANGUAGES AND ENGLISH
+#### QUALIFYING PAPERS ON INDIAN LANGUAGES AND ENGLISH\
+
+>
 The aim of the paper is to test the candidate’s ability to read and understand serious discursive prose, and to express his ideas clearly and correctly, in English and Indian Language concerned
 The pattern of questions would be broadly as follows:-
-(i) Comprehension of given passages
-(ii) Precis Writing
-(iii) Usage and Vocabulary
-(iv) Short Essay.
+>
+(i) Comprehension of given passages.  
+(ii) Precis Writing.  
+(iii) Usage and Vocabulary.  
+(iv) Short Essay.  
 
-Indian Languages:-
+**Indian Languages:-**
+
+>
 (i) Comprehension of given passages.
 (ii) Precis Writing
 (iii) Usage and Vocabulary.
 (iv) Short Essay
 (v) Translation from English to the Indian language and vice-versa.
 
-#### PAPER-I
-#### ESSAY
-Candidates will be required to write an essay on a specific topic. The choice of subjects will be given.
+***
+
+#### PAPER-I [ ESSAY ]
+> Candidates will be required to write an essay on a specific topic. The choice of subjects will be given.
 They will be expected to keep closely to the subject of the essay to arrange their ideas in orderly fashion and to write concisely. Credit will be given for effective and exact expression.
 
-#### PAPER-II
-#### General Studies- I: Indian Heritage and Culture, History and Geography of the World and Society.
-
+___
+#### PAPER-II [ General Studies- I: Indian Heritage and Culture, History and Geography of the World and Society ]
+>
 Indian Heritage and Culture
 •	Indian culture will cover the salient aspects of Art Forms, Literature and Architecture from ancient to modern times.
 History
@@ -102,9 +112,11 @@ Geography of the World
 •	Distribution of key natural resources across the world (including South Asia and the Indian subcontinent); factors responsible for the location of primary, secondary, and tertiary sector industries in various parts of the world (including India)
 •	Important Geophysical phenomena such as earthquakes, Tsunami, Volcanic activity, cyclone etc., geographical features and their location- changes in critical geographical features (including waterbodies and ice-caps) and in flora and fauna and the effects of such changes.
 
-#### PAPER-III
-#### General Studies- II: Governance, Constitution, Polity, Social Justice and International relations.
+___
 
+#### PAPER-III [General Studies- II: Governance, Constitution, Polity, Social Justice and International relations]
+
+>
 Governance, Constitution, Polity
 •	Indian Constitution- historical underpinnings, evolution, features, amendments, significant provisions and basic structure.
 •	Functions and responsibilities of the Union and the States, issues and challenges pertaining to the federal structure, devolution of powers and finances up to local levels and challenges therein.
@@ -129,9 +141,11 @@ International relations
 •	Effect of policies and politics of developed and developing countries on India’s interests, Indian diaspora.
 •	Important International institutions, agencies and fora- their structure, mandate.
 
-#### PAPER-IV
-#### General Studies-III: Technology, Economic Development, Bio diversity, Environment, Security and Disaster Management.
+___
 
+#### PAPER-IV [General Studies-III: Technology, Economic Development, Bio diversity, Environment, Security and Disaster Management]
+
+>
 Economic Development
 •	Indian Economy and issues relating to planning, mobilization of resources, growth, development and employment.
 •	Inclusive growth and issues arising from it.
@@ -159,9 +173,11 @@ Security
 •	Security challenges and their management in border areas; linkages of organized crime with terrorism
 •	Various Security forces and agencies and their mandate 
 
-#### PAPER-V
-#### General Studies- IV: Ethics, Integrity, and Aptitude
+___
 
+#### PAPER-V [General Studies- IV: Ethics, Integrity, and Aptitude]
+
+>
 This paper will include questions to test the candidates’ attitude and approach to issues relating to integrity, probity in public life and his problem solving approach to various issues and conflicts faced by him in dealing with society. Questions may utilise the case study approach to determine these aspects. The following broad areas will be covered.
 •	Ethics and Human Interface: Essence, determinants and consequences of Ethics in human actions; dimensions of ethics; ethics in private and public relationships. Human Values – lessons from the lives and teachings of great leaders, reformers and administrators; role of family, society and educational institutions in inculcating values.
 •	Attitude: content, structure, function; its influence and relation with thought and behaviour; moral and political attitudes; social influence and persuasion.
@@ -172,12 +188,16 @@ This paper will include questions to test the candidates’ attitude and approac
 •	Probity in Governance: Concept of public service; Philosophical basis of governance and probity; Information sharing and transparency in government, Right to Information, Codes of Ethics, Codes of Conduct, Citizen’s Charters, Work culture, Quality of service delivery, Utilization of public funds, challenges of corruption.
 Case Studies on above issues.
 
+___
+
 #### PAPER-VI & VII
 #### Optional Subject Papers – I & II
 
 ### Syllabus for Optional Subjects
 
+>
 The subjects available for Papers VI and VII are: Public administration is one of the most sought after optional subjects in Mains examination as it has overlapping content with other subjects like Current Affairs, History, Polity. The standards of Optional papers is of Post Graduate level. Paper I is theoretical but Paper II is often dominated by Current Affairs and Application based questions.
+
 •	Agriculture
 •	Animal Husbandary and Veterinary Science
 •	Anthropology
@@ -206,12 +226,16 @@ The subjects available for Papers VI and VII are: Public administration is one o
 •	Zoology
 
 
+___
+___
+
 ## Posts in  Civil Service Examination
+---
 
 All India Services (Group A)
 
-•	Indian Administrative Service (IAS)
-•	Indian Police Service (IPS)
+•	Indian Administrative Service (IAS).
+•	Indian Police Service (IPS).
 •	Indian Forest Service (IFS)
 
 Central Services (Group A)
@@ -245,6 +269,7 @@ Group B Services
 
 ## Personality Test ( INTERVIEW )
 
+>
 The interview will carry 275 marks (with no minimum qualifying marks). Marks thus obtained by the candidates in the Main Examination(written part as well as interview) would determine their final ranking. (Ranking is based on score out of 2025 Marks). Candidates will be allotted to the various services keeping in view their ranks in the Examination and the preferences expressed by them for the various services and posts.
 The number of candidates to be summoned for interview will be about twice the number of vacancies to be filled.
 The candidate will be interviewed by a Board who will have before them a record of his career. He will be asked questions on matters of general interest.
@@ -253,7 +278,7 @@ Some of the qualities to be judged are mental alertness, critical powers of assi
 The technique of the interview is not that of a strict cross-examination but of a natural, though directed and purposive conversation which is intended to reveal the mental qualities of the candidate.
 The interview test is not intended to be a test either of the specialized or general knowledge of the candidates which has been already tested through their written papers. Candidates are expected to have taken an intelligent interest not only in their special subjects of academic study but also in the events which are happening around them both within and outside their own State or Country as well as in modern currents of thought and in new discoveries which should rouse the curiosity of well-educated youth.
 
-## FAQ'
+## FAQ's
 
 ---
 
