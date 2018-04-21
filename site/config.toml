@@ -40,7 +40,7 @@ paginate = 10
 [[menu.main]]
     parent = "upsc"
     name = "About UPSC"
-    url  = "/UPSC/About"
+    url  = "/upsc#about-upsc"
     weight = 1
 
 [[menu.main]]
