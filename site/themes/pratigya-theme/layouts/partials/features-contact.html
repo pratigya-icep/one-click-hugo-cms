@@ -11,8 +11,14 @@
 
         {{ range $index, $element := sort .Site.Data.features "weight" }}
 				<div class="col-md-6" style="margin-left: -10px;margin-right: -10px;">
+                    {{ if (not (eq $element.url "")) }}
+                      <a href="{{ $element.url }}">
+                    {{ end }}
                     <div class="box-simple" style="background-repeat:  no-repeat;background-image: url('img/course/course{{$index}}.jpg');background-size:  contain;min-height: 153px;">
                     </div>
+                    {{ if (not (eq $element.url "")) }}
+                      </a>
+                    {{ end }}
           </div>
 		<!-- {{ if or (eq (mod $index 3) 2) (eq $index (sub (len $.Site.Data.features) 1 )) }} -->
 		<!-- {{ end }} -->
