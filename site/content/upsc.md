@@ -10,7 +10,7 @@ carousel = true
 
 # About UPSC
 >
-**The civil services offer fine opportunities to the youth for serving the people. Our country needs honest, efficient, competent and dynamic officers who know the ethos of the land. 
+**The civil services offer fine opportunities to the youth for serving the people. Our country needs honest, efficient, competent and dynamic officers who know the ethos of the land.
 Pessimists may contend that the pass percentage is abysmally low, making the effort of most candidates futile. In 2014, nearly 9.5 lakh candidates filed their applications. In 2016, there would be a million applicants, half of whom may appear in the preliminary exam, competing for a thousand seats. But there is a positive side. A candidate who prepares steadily for nearly 15 months with commitment for improving language skills, widening general knowledge, mastering strategies for facing objective as well as descriptive questions, perfecting interview techniques and building self-confidence will certainly have developed strong competitive muscles. This will help the candidate in winning any other competition of a similar nature. However, let us focus on success. The selection would be for nearly 24 services including the IFS, IAS and IPS.**
 
 ***
@@ -24,15 +24,15 @@ Pessimists may contend that the pass percentage is abysmally low, making the eff
 
 ## EXAM PATTERN
 
-![alt text](/img/banners/pre exam pattern.jpg "Logo Title Text 1")
+<img src="/img/banners/pre exam pattern.jpg" style="max-width: 100%;"/>
 
 > **The preliminary stage consists of two papers, each of two hours. Each paper carries 200 marks and contains only objective-type multiple-choice questions, with 4 options against each question. There is negative marking for wrong answers. Paper 1 focuses on knowledge, while Paper 2 stresses logic. Calculators are not allowed in the test. You should score at least 33 per cent marks in Paper 2. The marks scored in the preliminary examination do not count for the final ranking. This is only a screening test for selecting the candidates for the main examination. The number of candidates to be admitted to the main examination will be about 13 times the vacancies.**
 
-![alt text](/img/banners/mains exam pattern.jpg "Logo Title Text 1")
+<img src="/img/banners/mains exam pattern.jpg" style="max-width: 100%;"/>
 
 ## ELIGIBILITY
 
-![alt text](/img/banners/eligibility.png "Logo Title Text 1") 
+<img src="/img/banners/eligibility.png" style="max-width: 100%;"/>
 
 > **Anyone with a university degree or equivalent can apply for the civil services examination. There is no minimum mark restriction. Age limit: 21 to 32 years on August 1 of the year of notification. The upper-age limit can be relaxed in eligible cases.**
 ***
@@ -44,7 +44,7 @@ Pessimists may contend that the pass percentage is abysmally low, making the eff
 ### Syllabus For Prelims
 
 ### G S Paper-1
-> 
+>
 1. Current events of national and international importance.
 2. History of India and Indian National Movement.
 3. Indian and World Geography-Physical, Social, Economic Geography of India and the World
@@ -171,7 +171,7 @@ Security
 •	Role of external state and non-state actors in creating challenges to internal security.
 •	Challenges to internal security through communication networks, role of media and social networking sites in internal security challenges, basics of cyber security; money-laundering and its prevention
 •	Security challenges and their management in border areas; linkages of organized crime with terrorism
-•	Various Security forces and agencies and their mandate 
+•	Various Security forces and agencies and their mandate
 
 ___
 
