@@ -45,9 +45,15 @@ paginate = 10
 
 [[menu.main]]
     parent = "upsc"
+    name = "UPSC Syllabus"
+    url  = "/upsc-prelims-syllabus"
+    weight = 2
+
+[[menu.main]]
+    parent = "upsc"
     name = "GS (Pre-cum-Mains) 2019"
     url  = "/UPSC/GS-2019"
-    weight = 2
+    weight = 3
 
 [[menu.main]]
     name = "UPPSC"
