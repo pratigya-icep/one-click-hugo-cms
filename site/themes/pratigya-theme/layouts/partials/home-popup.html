@@ -1,0 +1,33 @@
+<div class="slidepop">
+    <div onclick="hideRight();" class="cont_div_slidepopup " id="bottom_popup">
+        <i class="slide_pop_close"><img src="https://nextias.com/document/images/crossbutton.png" alt="crossbutton"></i>
+        <div class="iconname">
+            <a href="https://cst.nextias.com/" target="_blank"><img src="https://nextias.com/document/images/CST_popup.jpg" alt="civil services scholarship nextias"></a></div>
+    </div>
+</div>
+
+
+<script>
+
+    function hide_stone() {
+        $(".Standalone_pop").addClass("pop_hide");
+        setTimeout(function () {
+            $("#gettouchform11").hide();
+        }, 300);
+
+    }
+    ;
+
+</script>
+ <!-- <script  src="js/jquery-2.1.3.min.js"></script>  -->
+<script>
+    $(document).ready(function () {
+        $("#bottom_popup").addClass('appicon_show');
+        $("#bottom_popup").removeClass("appicon_hide");
+
+    });
+    function hideRight() {
+        $("#bottom_popup").removeClass("appicon_show");
+        $("#bottom_popup").addClass("appicon_hide");
+    }
+</script>
