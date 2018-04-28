@@ -45,35 +45,66 @@ paginate = 10
 
 [[menu.main]]
     parent = "upsc"
-    name = "UPSC Syllabus"
-    url  = "/upsc-prelims-syllabus"
-    weight = 2
+    name = "GS (Prelims-2019)"
+    url  = "/upsc#about-upsc"
+    weight = 4
 
 [[menu.main]]
     parent = "upsc"
-    name = "GS (Pre-cum-Mains) 2019"
+    name = "GS (Pre-cum-Mains-2019)"
     url  = "/UPSC/GS-2019"
-    weight = 3
+    weight = 4
 
 [[menu.main]]
-    name = "UPPSC"
-    url  = "/courses/UPPSC"
+    parent = "upsc"
+    name = "Classroom Course"
+    url  = "/UPSC/GS-2019"
+    weight = 5
+
+[[menu.main]]
+    parent = "upsc"
+    name = "Postal Course"
+    url  = "/UPSC/GS-2019"
     weight = 6
-    identifier = "uppsc"
+
+[[menu.main]]
+    parent = "upsc"
+    name = "FAQ's"
+    url  = "/UPSC/GS-2019"
+    weight = 7
+
+[[menu.main]]
+    name = "SPSC"
+    url  = "/courses/SPSC"
+    weight = 6
+    identifier = "spsc"
     parent = "courses"
     HasChildren = true
 
 [[menu.main]]
-    parent = "uppsc"
+    parent = "spsc"
     name = "About"
-    url  = "/UPPSC/About"
+    url  = "/SPSC/About"
     weight = 1
 
 [[menu.main]]
-    parent = "uppsc"
-    name = "Classroom Course"
-    url  = "/UPPSC/classroom-course"
+    parent = "spsc"
+    name = "GS Prelims"
+    url  = "/SPSC/classroom-course"
     weight = 2
+
+[[menu.main]]
+    parent = "spsc"
+    name = "SPSC Classroom Course"
+    url  = "/SPSC/About"
+    weight = 3
+
+[[menu.main]]
+    parent = "spsc"
+    name = "SPSC Postal Course"
+    url  = "/SPSC/About"
+    weight = 4
+
 
 [[menu.main]]
     name = "SSC"
@@ -85,36 +116,115 @@ paginate = 10
 
 [[menu.main]]
     parent = "ssc"
-    name = "Bank-PO"
+    name = "About SSC"
     url  = "/UPPSC/bank-po"
     weight = 1
 
 [[menu.main]]
     parent = "ssc"
-    name = "Railway"
-    url  = "/UPPSC/railway"
+    name = "SSC Classroom Course"
+    url  = "/UPPSC/bank-po"
     weight = 2
 
 [[menu.main]]
-    name = "IB-ACIO"
-    url  = "/courses/IB-ACIO"
+    parent = "ssc"
+    name = "SSC Postal Course"
+    url  = "/UPPSC/bank-po"
+    weight = 3
+
+[[menu.main]]
+    parent = "ssc"
+    name = "SSC Notification"
+    url  = "/UPPSC/bank-po"
+    weight = 4
+
+[[menu.main]]
+    name = "BANKING"
+    url  = "/courses/BANKING"
     weight = 8
-    identifier = "ib"
+    identifier = "bank"
     parent = "courses"
     HasChildren = true
 
 [[menu.main]]
-    parent = "ib"
-    name = "APFC"
+    parent = "bank"
+    name = "About Banking"
     url  = "/UPPSC/apfc"
     weight = 1
 
 [[menu.main]]
-    parent = "ib"
-    name = "CPO-SI"
+    parent = "bank"
+    name = "Banking Classroom Course"
     url  = "/UPPSC/cpo-si"
     weight = 2
 
+[[menu.main]]
+    parent = "bank"
+    name = "Banking Postal Course"
+    url  = "/UPPSC/cpo-si"
+    weight = 3
+
+[[menu.main]]
+    parent = "bank"
+    name = "Banking Notification"
+    url  = "/UPPSC/cpo-si"
+    weight = 4
+
+[[menu.main]]
+    name = "Other Exams"
+    url  = "/courses/BANKING"
+    weight = 9
+    identifier = "other"
+    parent = "courses"
+    HasChildren = true
+
+[[menu.main]]
+    parent = "other"
+    name = "DSSSB"
+    url  = "/UPPSC/cpo-si"
+    weight = 1
+
+
+[[menu.main]]
+    parent = "other"
+    name = "CDS"
+    url  = "/UPPSC/cpo-si"
+    weight = 2
+
+
+[[menu.main]]
+    parent = "other"
+    name = "CAPF"
+    url  = "/UPPSC/cpo-si"
+    weight = 3
+
+
+[[menu.main]]
+    parent = "other"
+    name = "IB-ACIO"
+    url  = "/UPPSC/cpo-si"
+    weight = 4
+
+
+[[menu.main]]
+    parent = "other"
+    name = "APFC"
+    url  = "/UPPSC/cpo-si"
+    weight = 5
+
+
+[[menu.main]]
+    parent = "other"
+    name = "CPO-SI"
+    url  = "/UPPSC/cpo-si"
+    weight = 6
+
+
+[[menu.main]]
+    parent = "other"
+    name = "Territorial Army"
+    url  = "/UPPSC/cpo-si"
+    weight = 7
 
 [[menu.main]]
     name = "Resources"
@@ -133,15 +243,33 @@ paginate = 10
 
 [[menu.main]]
     parent = "syllabus"
-    name = "UPSC Pre Syllabus"
+    name = "UPSC Syllabus"
     url  = "/resources/syllabus/upsc-pre-syllabus"
     weight = 1
 
 [[menu.main]]
     parent = "syllabus"
-    name = "UPPSC Mains Syllabus"
+    name = "Optional Syllabus"
     url  = "/resources/syllabus/upsc-mains-syllabus"
     weight = 2
+
+[[menu.main]]
+    parent = "syllabus"
+    name = "SSC Syllabus"
+    url  = "/resources/syllabus/upsc-mains-syllabus"
+    weight = 3
+
+[[menu.main]]
+    parent = "syllabus"
+    name = "Bank Syllabus"
+    url  = "/resources/syllabus/upsc-mains-syllabus"
+    weight = 4
+
+[[menu.main]]
+    parent = "syllabus"
+    name = "Other Exams"
+    url  = "/resources/syllabus/upsc-mains-syllabus"
+    weight = 5
 
 [[menu.main]]
     name = "Booklet"
@@ -153,15 +281,27 @@ paginate = 10
 
 [[menu.main]]
     parent = "booklet"
-    name = "UPSC Pre"
+    name = "UPSC Pre & Mains"
     url  = "/resources/booklet/upsc-pre"
     weight = 1
 
 [[menu.main]]
     parent = "booklet"
-    name = "UPSC Mains Booklet"
+    name = "SSC Booklet"
     url  = "/resources/booklet/upsc-mains"
     weight = 2
+
+[[menu.main]]
+    parent = "booklet"
+    name = "Banking Booklet"
+    url  = "/resources/booklet/upsc-mains"
+    weight = 3
+
+[[menu.main]]
+    parent = "booklet"
+    name = "Current Affairs"
+    url  = "/resources/booklet/upsc-mains"
+    weight = 4
 
 [[menu.main]]
     name = "Previous Years Papers"
@@ -184,24 +324,54 @@ paginate = 10
     weight = 2
 
 [[menu.main]]
-    name = "Pratigya"
+    parent = "prev-year-paper"
+    name = "UPSC Optional"
+    url  = "/resources/previous-years-papers/upsc-mains"
+    weight = 3
+
+[[menu.main]]
+    parent = "prev-year-paper"
+    name = "SSC Practice Papers"
+    url  = "/resources/previous-years-papers/upsc-mains"
+    weight = 4
+
+[[menu.main]]
+    parent = "prev-year-paper"
+    name = "Banking Practice Papers"
+    url  = "/resources/previous-years-papers/upsc-mains"
+    weight = 5
+
+[[menu.main]]
+    name = "Student Info."
     url  = "/resources/pratigya"
-    identifier = "pratigya"
+    identifier = "student"
     parent = "resources"
     weight = 4
     HasChildren = true
 
 [[menu.main]]
-    parent = "pratigya"
+    parent = "student"
     name = "Notifications"
     url  = "/resources/pratigya/notifications"
     weight = 1
 
 [[menu.main]]
-    parent = "pratigya"
+    parent = "student"
     name = "Prospectus"
     url  = "/resources/pratigya/propectus"
     weight = 2
+
+[[menu.main]]
+    parent = "student"
+    name = "Online Registration"
+    url  = "/resources/pratigya/propectus"
+    weight = 3
+
+[[menu.main]]
+    parent = "student"
+    name = "Student Queries"
+    url  = "/resources/pratigya/propectus"
+    weight = 4
 
 
 # [[menu.main]]
