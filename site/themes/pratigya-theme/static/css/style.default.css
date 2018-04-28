@@ -3782,3 +3782,39 @@ a.list-group-item.active > .badge,
 /*.slidepop { position: fixed;  bottom: 0; right: 0;width: 200px;   height:300px;}*/
 .cont_div_slidepopup { border-color: #ccc;position: fixed; bottom: -450px; height: auto;background: #dedede;right: 7px;outline:0; text-align: center;  color: #777777;z-index: 100;   webkit-transition-duration: 1.5s;  -moz-transition-duration: 1.5s;  -o-transition-duration: 1.5s;   transition-duration: 1.5s; -webkit-transition-property: -webkit-transform;  -moz-transition-property: -moz-transform; -o-transition-property: -o-transform;  transition-property: transform;  transition-property: all;border: 1px solid transparent;}.slidepop .cont_div_slidepopup i { position: absolute;right: 2px; top: -6px; float: left; width: 35px;cursor:pointer;outline: 0;  height: 40px;margin-bottom: 3px;}.slidepop .cont_div_slidepopup .iconname { float: left;outline: 0; padding: 5px;}.slidepop .cont_div_slidepopup .iconname img {outline: 0;}/*.slidepop .cont_div_slidepopup:hover {  right: -1px; background: #fff;border-color: #ccc;}*/.appicon_show {position:fixed;bottom: -1px; }.appicon_hide {position:fixed;bottom: -450px;}.onloadPopup .imgholder .home_pop_close{width:100%;}.onloadPopup .imgholder  .pop_image img{width:100%;}.slidepop .cont_div_slidepopup .iconname img{width:250px;}.slidepop .cont_div_slidepopup .iconname img{width:200px;}
 /*popup bottom css end*/
+
+/* marquee css start */
+.marquee_strip{float: left;
+width: 100%;
+background-color: #f2f2f2;
+padding: 6px 0px 3px 0px;
+background-color: #e3e3e3;}
+.newseven .latest_updt .newimg {
+    background: url(../img/new_icons.gif) no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    float: none;
+    height: 16px;
+    right: 3px;margin-top: 1px;
+
+    width: 32px;
+}
+.latest_updt span {
+/*    float: left;*/
+    padding: 0 17px; line-height: 23px;
+    border-right: 1px solid #333;
+    cursor: pointer;
+    transition: .2s ease-in;
+        display: inline-block;
+    width: auto;
+}
+.latest_updt span a{color:#000;}
+.latest_updt span a:hover{color: #f0474d;
+      font-family: open_sanssemibold;
+}
+.latest_updt.border_right span {
+    border-right: 1px solid #333;
+}
+.latest_updt span.last {
+    padding-right: 0;
+    border-right: 0px solid #333;
+}
+/* marquee css end */
