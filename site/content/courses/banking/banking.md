@@ -8,11 +8,8 @@ data_file = "upsccarousel.html"
 carousel = true
 +++
 
-# SSC CGL 2018
+# BANKING 
 >
-Staff Selection Commission of India has announced the SSC Calendar for the new dates for SSC CGL 2018. SSC CGL 2018 Notification is expected to be released on 5th May 2018. The SSC CGL 2018 Tier-1 Exam will be conducted from 25th July to 20th August 2018.
-Staff Selection Commission or SSC has been one of the most desirable organizations for Government exams in India. It conducts Combined Graduate Level - SSC CGL exam every year for recruitment to non-technical Group ‘B’ and Group ‘C’ non gazetted posts in various Ministries/ Departments/ Organizations of the Government of India.
-Every year thousands of vacancies are filled by SSC in Government departments. Govt. jobs are the most sought after career choice in India. More so, the government is focusing on providing better facilities and services in every aspect of our lives. Govt is focusing on the development of our country and to do that millions of Jobs will be created in the coming   
 
 • 
 
