@@ -1,0 +1,9 @@
+weight: 2
+title: "Test Series"
+description: >
+  <ul class="list-style-none">
+    <li>7 preprepared colour variations.</li>
+    <li>Easily to change fonts</li>
+  </ul>
+image: "img/carousel/banner3.png"
+url: "/testseries"

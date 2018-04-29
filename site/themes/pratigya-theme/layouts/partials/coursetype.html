@@ -1,76 +1,18 @@
 <div class="three-shade-col">
-    <div class="col-sm-4">
-        <!-- <svg class="icon icon-envelope-o"><use xlink:href="#icon-envelope-o"></use></svg> -->
-        <h3>Classroom Courses</h3>
-        <!-- <ul>
-            <li><strong>Phone:</strong> 932 50 540</li>
-            <li><strong>Emergency:</strong> 931 53 234</li>
-            <li><strong>Email:</strong> contact@yoursite.com</li>
-        </ul> -->
-    </div>
-    <div class="col-sm-4">
-        <!-- <svg class="icon icon-clock-o"><use xlink:href="#icon-clock-o"></use></svg> -->
-        <h3>Test Series</h3>
-        <!-- <table>
-            <tbody>
-                <tr>
-                    <td>Monday – Friday</td>
-                    <td>9:00 – 18:00</td>
-                </tr>
-                <tr>
-                    <td>Saturday</td>
-                    <td>10:00 – 17:00</td>
-                </tr>
-                <tr>
-                    <td>Sunday</td>
-                    <td>10:00 – 15:00</td>
-                </tr>
-            </tbody>
-        </table> -->
-    </div>
-    <div class="col-sm-4">
-        <!-- <svg class="icon icon-map-marker"><use xlink:href="#icon-map-marker"></use></svg> -->
-        <h3>Current Affairs</h3>
-            <!-- <p>
-                Von schroeders 273, <br> Viña del mar - Chile
-            </p> -->
-    </div>
+{{ range $index,$element := sort .Site.Data.coursetype.top "weight" }}
+    <a class="col-sm-4" href="{{ .url }}">
+      <div>
+        <h3>{{ .title }}</h3>
+      </div>
+    </a>
+{{ end }}
 </div>
 <div class="three-shade-col-flip">
-    <div class="col-sm-4">
-        <!-- <svg class="icon icon-envelope-o"><use xlink:href="#icon-envelope-o"></use></svg> -->
-        <h3>Postal Courses</h3>
-        <!-- <ul>
-            <li><strong>Phone:</strong> 932 50 540</li>
-            <li><strong>Emergency:</strong> 931 53 234</li>
-            <li><strong>Email:</strong> contact@yoursite.com</li>
-        </ul> -->
-    </div>
-    <div class="col-sm-4">
-        <!-- <svg class="icon icon-clock-o"><use xlink:href="#icon-clock-o"></use></svg> -->
-        <h3>Important Books</h3>
-        <!-- <table>
-            <tbody>
-                <tr>
-                    <td>Monday – Friday</td>
-                    <td>9:00 – 18:00</td>
-                </tr>
-                <tr>
-                    <td>Saturday</td>
-                    <td>10:00 – 17:00</td>
-                </tr>
-                <tr>
-                    <td>Sunday</td>
-                    <td>10:00 – 15:00</td>
-                </tr>
-            </tbody>
-        </table> -->
-    </div>
-    <div class="col-sm-4">
-        <!-- <svg class="icon icon-map-marker"><use xlink:href="#icon-map-marker"></use></svg> -->
-        <h3>Youtube Channel</h3>
-            <!-- <p>
-                Von schroeders 273, <br> Viña del mar - Chile
-            </p> -->
-    </div>
+{{ range $index,$element := sort .Site.Data.coursetype.bottom "weight" }}
+    <a class="col-sm-4" href="{{ .url }}">
+      <div>
+        <h3>{{ .title }}</h3>
+      </div>
+    </a>
+{{ end }}
 </div>
