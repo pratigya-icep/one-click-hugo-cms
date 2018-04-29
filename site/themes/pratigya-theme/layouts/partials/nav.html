@@ -71,11 +71,15 @@
                   <li class="dropdown">
                     {{ if .HasChildren }}
                       <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ .Name }} <span class="caret"></span></a>
-                      <ul class="dropdown-menu multi-column columns-2">
+                      <ul class="dropdown-menu multi-column columns-5">
                         <div class="row" style="min-width: 786px;">
                       {{ range .Children }}
                         {{ if .HasChildren }}
-                            <div class="col-sm-3">
+                            {{ if eq .Parent "courses" }}
+                              <div class="col-sm-2" style="width: 19.667%">
+                            {{ else }}
+                              <div class="col-sm-3">
+                            {{ end }}    
                               <ul class="multi-column-dropdown">
                                   <li><a class="blue font-small font-weight" a href="{{ .URL }}">{{ .Name }}</a></li>
                                   {{ range .Children }}
