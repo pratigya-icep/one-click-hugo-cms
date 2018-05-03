@@ -13,7 +13,6 @@ ___
 
 ### General Studies- II: Governance, Constitution, Polity, Social Justice and International relations
 
->
 
 #### Governance, Constitution, Polity
 > **•	Indian Constitution- historical underpinnings, evolution, features, amendments, significant provisions and basic structure.  

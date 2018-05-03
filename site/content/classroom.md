@@ -8,129 +8,41 @@ data_file = "upsccarousel.html"
 carousel = true
 +++
 
-# SSC CGL 2018
+# CLASSROOM COURSES
 >
-Staff Selection Commission of India has announced the SSC Calendar for the new dates for SSC CGL 2018. SSC CGL 2018 Notification is expected to be released on 5th May 2018. The SSC CGL 2018 Tier-1 Exam will be conducted from 25th July to 20th August 2018.
-Staff Selection Commission or SSC has been one of the most desirable organizations for Government exams in India. It conducts Combined Graduate Level - SSC CGL exam every year for recruitment to non-technical Group ‘B’ and Group ‘C’ non gazetted posts in various Ministries/ Departments/ Organizations of the Government of India.
-Every year thousands of vacancies are filled by SSC in Government departments. Govt. jobs are the most sought after career choice in India. More so, the government is focusing on providing better facilities and services in every aspect of our lives. Govt is focusing on the development of our country and to do that millions of Jobs will be created in the coming years. SSC is the leading Govt. organization that provides employment to lakhs of students in India. A great opportunity lies ahead for all the SSC aspirants.
-The Staff Selection Commission (SSC) conducts the Combined Graduate Level (CGL) Exam for recruitment to various subordinate services like:  
+This batch is exclusively designed for comprehensive coverage of both preliminary and main syllabus. The subjects will be taught by highly qualified faculties having vast experience in the domain of Civil Services Examination. The faculty members are very dedicated and regular doubt clearing sessions are planned to improve the weaker areas. This batch is embedded with current approach including regular newspaper analysis. The subject content will be taught from basics in order to improve the foundation of the subjects. Intensive writing skill sessions will be conducted to develop presentation techniques. Systematic approach will be followed to cover both international and domestic issues efficiently. At Pratigya individual attention will be paid and regular counseling and motivational sessions will be conducted by experts. 
 
-• Assistants in Ministries/Departments, Attached and Subordinate office of the Govt. of India.
-• Inspectors of Central Excise & Customs.
-• Inspectors of Income Tax.
-• Preventive Officers in Customs.
-• Examiner in Customs.
-• Sub-Inspectors in Central Bureau of Narcotics & CBI.
-• Assistant Enforcement Officer in Directorate of Enforcement, Department of Revenue.
-• Divisional Accountant, Jr. Accountant, Auditor & UDCs in various offices of Govt. of India.
-• Auditor Offices under C&AG, CGDA, CGA & others.
-• Accountant/ Junior Accountant
-• Tax Assistant in CBDT and CBEC
-• Compiler in Registrar General of India. 
+</br>
 
-***
+> The course curriculum is well planned and innovative teaching pedagogy will be followed to obtain target oriented results. Updated and revised study material will be provided along with the short notes dictated by every subject expert. Audio visuals, power point presentation and other interactive modes of learning platforms will be used to make teaching more interesting and for better understanding. 
+
+</br>
 
 
+## Course Features
 
+•	Best pool of faculty. 
 
-{{< youtube id="w7Ft2ymGmfc" autoplay="false" >}}
+•	Comprehensive coverage of both prelims and main syllabus. 
 
-***
+•	Around 800 teaching hours. 
 
-## EXAM PATTERN
+•	Updated and revised study material. 
 
-<img src="/img/banners/pre exam pattern.jpg" style="max-width: 100%;"/>
+•	Regular assessment of performance through well planned test series. 
 
->The selection procedure of SSC Graduate Level Exam 2017 will be based on four stages known as tiers. –
+•	Facility of online learning platform - The Current Affairs channel. 
 
-Tier 1 (Preliminary) - Written Examination (Objective Multiple Choice Type)
+•	Regular doubt clearing sessions. 
 
-Tier 2 (Mains) - Written Examination (Objective Multiple Choice Type)
+•	Motivational sessions. 
 
-Tier 3 (Descriptive Test) - Essay / Passage / Application / Letter Writing
+•	Classes to be conducted with regularity and at a time one or two. 
 
-Tier 4 (DEST/CPT) - Computer Proficiency Test / Data Entry Skill Test / Document Verification**
+</br>
 
-<img src="/img/banners/mains exam pattern.jpg" style="max-width: 100%;"/>
-
-## ELIGIBILITY
-
-<img src="/img/banners/eligibility.png" style="max-width: 100%;"/>
-
-> **Anyone with a university degree or equivalent can apply for the civil services examination. There is no minimum mark restriction. Age limit: 21 to 32 years on August 1 of the year of notification. The upper-age limit can be relaxed in eligible cases.**
-***
-
-> **_Appearing to attempt one of the papers in the preliminary examination is counted as an attempt, including disqualification/ cancellation of candidature. However, applying to sit the exam but failing to attend is not counted as an attempt._**
-
-## SYLLABUS
-
-<div class="container">
-<div class="col-md-4" style="margin-left: -10px;margin-right: -10px;">
-                    <a href="../upsc-prelims-syllabus"><div class="box-simple" style="background-repeat:  no-repeat;background-image: url('../img/upsc/prelims.jpg');background-size:  contain;min-height: 153px;">
-                    </div></a>
-</div>
-<div class="col-md-4" style="margin-left: -10px;margin-right: -10px;">
-                    <a href="../upsc-mains-syllabus"><div class="box-simple" style="background-repeat:  no-repeat;background-image: url('../img/upsc/mains.jpg');background-size:  contain;min-height: 153px;">
-                    </div></a>
-                    </div>
-</div>
+## Fee Structure
+<img src="/img/banners/upsc-fee-structure.jpg" style="max-width: 100%;"/>
 
 
 
-## Posts in  Civil Service Examination
----
-
-### All India Services (Group A)  
->
-**•	Indian Administrative Service (IAS).  
-•	Indian Police Service (IPS).  
-•	Indian Forest Service (IFS)**  
-
-### Central Services (Group A)  
->
-**•	Indian Audit and Accounts Service (IA&AS)  
-•	Indian Civil Accounts Service (ICAS)  
-•	Indian Corporate Law Service (ICLS)  
-•	Indian Defence Accounts Service (IDAS)  
-•	Indian Defence Estates Service (IDES)  
-•	Indian Foreign Service (IFS)  
-•	Indian Information Service (IIS)  
-•	Indian Ordnance Factories Service (IOFS)  
-•	Indian Post & Telecommunication Accounts and Finance Service (IP&TAFS)  
-•	Indian Postal Service (IPoS)  
-•	Indian Railway Accounts Service (IRAS)  
-•	Indian Railway Personnel Service (IRPS)  
-•	Indian Railway Traffic Service (IRTS)  
-•	Indian Revenue Service (IRS-IT)  
-•	Indian Revenue Service (IRS-C&CE)  
-•	Indian Trade Service (ITrS)  
-•	Railway Protection Force (RPF)**  
-
-### Group B Services  
->
-**•	Armed Forces Headquarters Civil Service (AFHCS)  
-•	Delhi, Andaman and Nicobar Islands Civil Service (DANICS)  
-•	Delhi, Andaman and Nicobar Islands Police Service (DANIPS)  
-•	Pondicherry Civil Service (PCS)  
-•	Pondicherry Police Service (PPS)**  
-
-___
-
-
-## Personality Test ( INTERVIEW )
-
->
-**The interview will carry 275 marks (with no minimum qualifying marks). Marks thus obtained by the candidates in the Main Examination(written part as well as interview) would determine their final ranking. (Ranking is based on score out of 2025 Marks).  
-Candidates will be allotted to the various services keeping in view their ranks in the Examination and the preferences expressed by them for the various services and posts.  
-The number of candidates to be summoned for interview will be about twice the number of vacancies to be filled.  
-The candidate will be interviewed by a Board who will have before them a record of his career. He will be asked questions on matters of general interest.  
-The object of the interview is to assess the personal suitability of the candidate for a career in public service by a Board of competent and unbiased observers. The test is intended to judge the mental caliber of a candidate. In broad terms this is really an assessment of not only his intellectual qualities but also social traits and his interest in current affairs.
-Some of the qualities to be judged are mental alertness, critical powers of assimilation, clear and logical exposition, balance of judgment, variety and depth of interest, ability for social cohesion and leadership, intellectual and moral integrity.  
-The technique of the interview is not that of a strict cross-examination but of a natural, though directed and purposive conversation which is intended to reveal the mental qualities of the candidate.  
-The interview test is not intended to be a test either of the specialized or general knowledge of the candidates which has been already tested through their written papers. Candidates are expected to have taken an intelligent interest not only in their special subjects of academic study but also in the events which are happening around them both within and outside their own State or Country as well as in modern currents of thought and in new discoveries which should rouse the curiosity of well-educated youth.**  
-
-## FAQ's
-
----
-
-> In case you haven't found the answer for your question please feel free to contact us, our customer support will be happy to help you.

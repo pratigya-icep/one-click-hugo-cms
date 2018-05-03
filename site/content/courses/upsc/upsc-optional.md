@@ -18,7 +18,8 @@ ___
 >
 **The subjects available for Papers VI and VII are: Public administration is one of the most sought after optional subjects in Mains examination as it has overlapping content with other subjects like Current Affairs, History, Polity. The standards of Optional papers is of Post Graduate level. Paper I is theoretical but Paper II is often dominated by Current Affairs and Application based questions.**  
 
->
+#### List of optional subjects for Main Examination :
+
 **•	Agriculture  
 •	Animal Husbandary and Veterinary Science  
 •	Anthropology  
