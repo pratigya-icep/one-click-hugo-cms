@@ -1,0 +1,6 @@
+{
+  "title": "News 2",
+  "weight": 2,
+  "news" : [ { "title":"n1", "link": "/link"},
+  { "title":"n2", "link": "/link"}]
+}
