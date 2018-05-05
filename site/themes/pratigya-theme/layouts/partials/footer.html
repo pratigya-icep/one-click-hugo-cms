@@ -1,54 +1,15 @@
-<footer id="footer" style="background-image: url(../img/footer-background.jpg); background-repeat: no-repeat;
-    background-size: cover;">
+<footer id="footer" style="background-image: url(../img/footer-background.jpg); background-repeat: no-repeat;background-size: cover;">
     <div class="container">
-
         <h4 style="text-align: center;">Important Exams</h4>
-        <div class="col-md-3 col-sm-5">
-
-            <!-- <h4>Courses Offered</h4> -->
-            <div class="blog-entries">
-                {{ range .Site.Params.Quicklink }}
-                <a href="{{ .url }}"><h6>{{ .text }}<h6></a>
+        {{ range $index,$element := sort .Site.Data.footer.importantexams "weight" }}
+          <div class="col-md-3 col-sm-5">
+              <div class="blog-entries">
+                {{ range $element.items }}
+                  <a href="{{ .url }}"><h6>{{ .text }}<h6></a>
                 {{ end }}
-            </div>
-
-        </div>
-
-        <div class="col-md-3 col-sm-5">
-
-            <!-- <h4>Courses Offered</h4> -->
-            <div class="blog-entries">
-                {{ range .Site.Params.Quicklink }}
-                <a href="{{ .url }}"><h6>{{ .text }}<h6></a>
-                {{ end }}
-            </div>
-
-        </div>
-
-        <!-- /.col-md-4 -->
-
-        <div class="col-md-3 col-sm-5">
-
-            <!-- <h4>Quick Links</h4> -->
-            <div class="blog-entries">
-                {{ range .Site.Params.Quicklink }}
-                <a href="{{ .url }}"><h6>{{ .text }}<h6></a>
-                {{ end }}
-            </div>
-
-        </div>
-
-        <div class="col-md-3 col-sm-5">
-
-            <!-- <h4>Important Links</h4> -->
-            <div class="blog-entries">
-                {{ range .Site.Params.Quicklink }}
-                <a href="{{ .url }}"><h6>{{ .text }}<h6></a>
-                {{ end }}
-            </div>
-
-        </div>
-
+              </div>
+          </div>
+        {{ end }}
     </div>
     <!-- /.container -->
     <br/>
@@ -71,39 +32,16 @@
         <!-- /.col-md-4 -->
         {{ end }}
 
-        <div class="col-md-3 col-sm-5">
-
-            <h4>Courses Offered</h4>
-            <div class="blog-entries">
-                {{ range .Site.Params.Quicklink }}
-                <a href="{{ .url }}"><h6>{{ .text }}<h6></a>
+        {{ range $index,$element := sort .Site.Data.footer.otherlinks "weight" }}
+          <div class="col-md-3 col-sm-5">
+              <h4>{{ $element.title }} </h4>
+              <div class="blog-entries">
+                {{ range $element.items }}
+                  <a href="{{ .url }}"><h6>{{ .text }}<h6></a>
                 {{ end }}
-            </div>
-
-        </div>
-        <!-- /.col-md-4 -->
-
-        <div class="col-md-3 col-sm-5">
-
-            <h4>Quick Links</h4>
-            <div class="blog-entries">
-                {{ range .Site.Params.Quicklink }}
-                <a href="{{ .url }}"><h6>{{ .text }}<h6></a>
-                {{ end }}
-            </div>
-
-        </div>
-
-        <div class="col-md-3 col-sm-5">
-
-            <h4>Important Links</h4>
-            <div class="blog-entries">
-                {{ range .Site.Params.Quicklink }}
-                <a href="{{ .url }}"><h6>{{ .text }}<h6></a>
-                {{ end }}
-            </div>
-
-        </div>
+              </div>
+          </div>
+        {{ end }}
 
     </div>
     <!-- /.container -->
