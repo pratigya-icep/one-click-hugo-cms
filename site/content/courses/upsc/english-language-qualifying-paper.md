@@ -1,9 +1,8 @@
 +++
-title = "upsc"
-description = "Frequently asked questions"
-#keywords = ["FAQ","How do I","questions","what if"]
+title = "UPSC English Language Qualifying Paper"
+description = "The aim of the paper is to test the candidate’s ability to read and understand serious discursive prose, and to express his ideas clearly and correctly, in English and Indian Language concerned"
+keywords = ["UPSC English Language Qualifying Paper","UPSC English Language Previous Year Papers"]
 layout = "course"
-#type = "course"
 data_file = "upsccarousel.html"
 carousel = true
 +++

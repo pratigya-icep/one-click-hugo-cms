@@ -1,7 +1,7 @@
 +++
-title = "upsc"
-description = "Frequently asked questions"
-#keywords = ["FAQ","How do I","questions","what if"]
+title = "Union Public Service Commission"
+description = "The civil services offer fine opportunities to the youth for serving the people. Our country needs honest, efficient, competent and dynamic officers who know the ethos of the land."
+keywords = ["About UPSC","UPSC Exam Pattern","UPSC Eligibility & Qualification","UPSC Syllabus"]
 layout = "course"
 #type = "course"
 data_file = "upsccarousel.html"
