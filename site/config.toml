@@ -469,25 +469,10 @@ paginate = 10
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
 
-[[params.quicklink]]
-    text = "text 13"
-    weight = 1
-    url = "/text-13"
-
-[[params.quicklink]]
-    text = "text 2"
-    weight = 2
-    url = "/text-2"
-
-[[params.quicklink]]
-    text = "text 3"
-    weight = 3
-    url = "/text-3"
-
-[[params.quicklink]]
-    text = "text 4"
-    weight = 4
-    url = "/text-4"
+[params.popup]
+    link = "/courses/upsc"
+    img = "/img/popup.jpg"
+    alt = "civil services scholarship"
 
 # Enable or disable top bar with social icons
 [params.topbar]
