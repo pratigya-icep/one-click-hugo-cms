@@ -1,11 +1,10 @@
 +++
-title = "ssc"
-description = "Frequently asked questions"
-#keywords = ["FAQ","How do I","questions","what if"]
+title = "Classroom Courses"
+description = "This batch is exclusively designed for comprehensive coverage of both preliminary and main syllabus. The subjects will be taught by highly qualified faculties having vast experience in the domain of Civil Services Examination."
+keywords = ["Classroom Courses","Classroom Course Features","Classroom Course Fee Structure"]
 layout = "course"
 #type = "course"
 data_file = "upsccarousel.html"
-carousel = true
 +++
 
 # CLASSROOM COURSES
