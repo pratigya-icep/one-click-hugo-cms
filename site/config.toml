@@ -447,7 +447,7 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "your@email.com"
 
-    about_us = "<p><b>Aspiration Educators</b> <br/>9/13 (Basement) Old Rajendra Nagar<br/>Near Naanbai Bakers<br/>Delhi-110060<br/> <br/>+91-84480 26019<br/>+91-84480 26018<br/>support@gmail.com</p>"
+    about_us = "<p><b>Pratigya Institute for Competitive Exams Preparation</b> <br/>201 Pal Mohan Mansiion <br/> 26/34 East Patel Nagar<br/> Near Oriental Bank of Commerce </br>Delhi-110008<br/> <br/>+91-84480 26019<br/>+91-84480 26018<br/>support@gmail.com</p>"
     copyright = "Copyright (c) 2018 - 2019, PratigyaICEP; all rights reserved."
 
     # Format dates with Go's time formatting
