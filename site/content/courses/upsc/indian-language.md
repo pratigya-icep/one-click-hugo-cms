@@ -1,7 +1,7 @@
 +++
-title = "upsc"
-description = "Frequently asked questions"
-#keywords = ["FAQ","How do I","questions","what if"]
+title = "UPSC Indian Lasnguage"
+description = ""
+#keywords = ["UPSC Indian Language Syllabus", " UPSC Language Previous Papers"]
 layout = "course"
 #type = "course"
 data_file = "upsccarousel.html"
