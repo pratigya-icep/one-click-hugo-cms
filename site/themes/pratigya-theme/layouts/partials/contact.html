@@ -29,7 +29,19 @@
                         <div class="col-sm-6">
                             <div class="form-group">
                                 <label for="email">{{ i18n "contactMail" }}</label>
-                                <input type="text" class="form-control" name="email" id="email" required>
+                                <input type="text" class="form-control" name="email" id="email" data-rule="email" data-msg="Please enter a valid email" required>
+                            </div>
+                        </div>
+                        <div class="col-sm-6">
+                            <div class="form-group">
+                              <label for="phone">Phone Number</label>
+                                <input type="text" class="form-control" name="phone" id="phone" required>
+                            </div>
+                        </div>
+                        <div class="col-sm-6">
+                            <div class="form-group">
+                                <label for="subject">Subject</label>
+                                <input type="text" class="form-control" name="subject" id="subject" required>
                             </div>
                         </div>
                         <div class="col-sm-12">
