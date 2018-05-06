@@ -1,7 +1,7 @@
 +++
-title = "upsc"
-description = "Frequently asked questions"
-#keywords = ["FAQ","How do I","questions","what if"]
+title = "UPSC Optional Paper"
+description = ""
+#keywords = ["UPSC Optional Paper Syllabus", "UPSC Optional Previous Papers"]
 layout = "course"
 #type = "course"
 data_file = "upsccarousel.html"

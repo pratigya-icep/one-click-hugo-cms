@@ -428,7 +428,7 @@ paginate = 10
     defaultDescription = "Site template made by devcows using hugo"
 
     # Google Maps API key (if not set will default to not passing a key.)
-    googleMapsApiKey = "AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y"
+    googleMapsApiKey = "AIzaSyC3YLYEQhmzQbLBGSOf9SuVUKvtbkRi2IY"
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "default"
@@ -455,25 +455,23 @@ paginate = 10
     date_format = "January 2, 2006"
 
     logo = "img/logo.png"
-    address = """<p><strong>Universal Ltd.</strong>
-        <br>13/25 New Avenue
-        <br>Newtown upon River
-        <br>45Y 73J
-        <br>England
-        <br>
-        <strong>Great Britain</strong>
+    address = """<p><strong>Pratigya ICEP</strong>
+        <br>201 Pal Mohan Mansion
+        <br>26/34 East Patel Nagar
+        <br>Near Oriental Bank
+        <br>New Delhi-110008
       </p>
       """
-    latitude = "-12.043333"
-    longitude = "-77.028333"
+    latitude = "28.6441563"
+    longitude = "77.1756787"
 
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
 
 [params.popup]
-    link = "/courses/upsc"
+    link = "/register"
     img = "/img/popup.jpg"
-    alt = "civil services scholarship"
+    alt = "Register"
 
 # Enable or disable top bar with social icons
 [params.topbar]

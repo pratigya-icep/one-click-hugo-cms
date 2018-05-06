@@ -1,7 +1,7 @@
 +++
-title = "upsc"
-description = "Frequently asked questions"
-#keywords = ["FAQ","How do I","questions","what if"]
+title = "UPSC Essay"
+description = "Candidates will be required to write an essay on a specific topic. The choice of subjects will be given.They will be expected to keep closely to the subject of the essay to arrange their ideas in orderly fashion and to write concisely."
+#keywords = ["UPSC Essay","UPSC Essay Previous Papers"]
 layout = "course"
 #type = "course"
 data_file = "upsccarousel.html"
