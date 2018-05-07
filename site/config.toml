@@ -75,7 +75,7 @@ paginate = 10
 
 [[menu.main]]
     name = "SPSC"
-    url  = "/courses/SPSC"
+#    url  = "/courses/SPSC"
     weight = 6
     identifier = "spsc"
     parent = "courses"
@@ -462,8 +462,8 @@ paginate = 10
         <br>New Delhi-110008
       </p>
       """
-    latitude = "28.6441563"
-    longitude = "77.1756787"
+    latitude = 28.6441563
+    longitude = 77.1756787
 
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"

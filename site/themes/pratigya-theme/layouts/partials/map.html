@@ -1,16 +1,32 @@
 {{ if isset .Site.Params "latitude" }}
   {{ if isset .Site.Params "longitude" }}
-      <div class="hidden">
+      <!-- <div class="hidden">
         <input id="gmap-lat" value="{{ .Site.Params.latitude }}" />
         <input id="gmap-lng" value="{{ .Site.Params.longitude }}" />
         <input id="gmap-marker" value="{{ .Site.BaseURL }}img/marker.png" />
-        {{ if isset .Site.Params "direction" }}
-          <input id="gmap-dir" value="{{ .Site.Params.direction }}" />
-        {{ else }}
           <input id="gmap-dir" value="{{ .Site.Params.latitude }},{{ .Site.Params.longitude }}" />
-        {{ end }}
-      </div>
-      <div id="map">
-      </div>
+      </div> -->
+   <div id="map"></div>
+   <script>
+
+        function initMap() {
+          var myLatLng = {lat: {{ .Site.Params.latitude }}, lng: {{ .Site.Params.longitude }} };
+
+          var map = new google.maps.Map(document.getElementById('map'), {
+            zoom: 16,
+            center: myLatLng
+          });
+
+          var marker = new google.maps.Marker({
+            position: myLatLng,
+            map: map,
+            title: 'Hello World!'
+          });
+        }
+      </script>
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key={{ .Site.Params.googleMapsApiKey }}&callback=initMap">
+    </script>
+
   {{ end }}
 {{ end }}
