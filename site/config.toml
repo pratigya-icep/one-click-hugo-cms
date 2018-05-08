@@ -31,7 +31,7 @@ paginate = 10
 
 [[menu.main]]
     name = "UPSC"
-    url  = "/upsc"
+    url  = "/courses/upsc"
     weight = 5
     identifier = "upsc"
     parent = "courses"
@@ -40,37 +40,37 @@ paginate = 10
 [[menu.main]]
     parent = "upsc"
     name = "About UPSC"
-    url  = "/upsc#about-upsc"
+    url  = "/courses/upsc#about-upsc"
     weight = 1
 
 [[menu.main]]
     parent = "upsc"
     name = "GS (Prelims-2019)"
-    url  = "/upsc#about-upsc"
+    url  = "/classroom-courses/#fee-structure"
     weight = 4
 
 [[menu.main]]
     parent = "upsc"
     name = "GS (Pre-cum-Mains-2019)"
-    url  = "/UPSC/GS-2019"
+    url  = "/classroom-courses/#fee-structure"
     weight = 4
 
 [[menu.main]]
     parent = "upsc"
     name = "Classroom Course"
-    url  = "/UPSC/GS-2019"
+    url  = "/classroom-courses"
     weight = 5
 
 [[menu.main]]
     parent = "upsc"
     name = "Postal Course"
-    url  = "/UPSC/GS-2019"
+    url  = "/postal-courses"
     weight = 6
 
 [[menu.main]]
     parent = "upsc"
     name = "FAQ's"
-    url  = "/UPSC/GS-2019"
+#    url  = "/UPSC/GS-2019"
     weight = 7
 
 [[menu.main]]
