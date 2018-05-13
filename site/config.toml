@@ -424,8 +424,8 @@ paginate = 10
 [params]
     viewMorePostLink = "/blog/"
     author = "DevCows"
-    defaultKeywords = ["devows", "hugo", "go"]
-    defaultDescription = "Site template made by devcows using hugo"
+    defaultKeywords = ["PratigyaICEP", "Institute for Competitive Exam Preparation", "IAS Exam Preparation"]
+    defaultDescription = "PratigyaICEP or Pratigya Institute for Competitive Exam Preparation is the best institute for competitive exam preparation"
 
     # Google Maps API key (if not set will default to not passing a key.)
     googleMapsApiKey = "AIzaSyC3YLYEQhmzQbLBGSOf9SuVUKvtbkRi2IY"
