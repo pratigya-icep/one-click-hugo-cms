@@ -1,9 +1,8 @@
-weight: 2
-title: "Important Books"
+weight: 1
+title: "Easy to customize"
 description: >
   <ul class="list-style-none">
     <li>7 preprepared colour variations.</li>
     <li>Easily to change fonts</li>
   </ul>
-image: "img/carousel/banner3.png"
-url: "/important-books"
+image: "/img/books/important_book.jpg"

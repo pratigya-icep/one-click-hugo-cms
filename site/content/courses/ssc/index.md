@@ -9,18 +9,21 @@ carousel = true
 +++
 
 # SSC CGL 2018
->
-Staff Selection Commission will hold the Combined
+
+>Staff Selection Commission will hold the Combined
 Graduate Level Examination, 2018 for filling up Group “B” and Group “C” posts in
 various Ministries/ Departments/ Organizations in the Government of India. The
 Tier-I of CGL Examination in Computer Based Mode is scheduled to be held from
 25.07.2018 to 20.08.2018.  
 
-Staff Selection Commission or SSC has been one of the most desirable organizations for Government exams in India. It conducts Combined Graduate Level - SSC CGL exam every year for recruitment to non-technical Group ‘B’ and Group ‘C’ non gazetted posts in various Ministries/ Departments/ Organizations of the Government of India.  
+>Staff Selection Commission or SSC has been one of the most desirable organizations for Government exams in India. It conducts Combined Graduate Level - SSC CGL exam every year for recruitment to non-technical Group ‘B’ and Group ‘C’ non gazetted posts in various Ministries/ Departments/ Organizations of the Government of India.  
 
-Every year thousands of vacancies are filled by SSC in Government departments. Govt. jobs are the most sought after career choice in India. More so, the government is focusing on providing better facilities and services in every aspect of our lives. Govt is focusing on the development of our country and to do that millions of Jobs will be created in the coming years. SSC is the leading Govt. organization that provides employment to lakhs of students in India. A great opportunity lies ahead for all the SSC aspirants.  
+>Every year thousands of vacancies are filled by SSC in Government departments. Govt. jobs are the most sought after career choice in India. More so, the government is focusing on providing better facilities and services in every aspect of our lives. Govt is focusing on the development of our country and to do that millions of Jobs will be created in the coming years. SSC is the leading Govt. organization that provides employment to lakhs of students in India. A great opportunity lies ahead for all the SSC aspirants.  
 
-The Staff Selection Commission (SSC) conducts the Combined Graduate Level (CGL) Exam for recruitment to various subordinate services like:  
+<br>
+
+<b> The Staff Selection Commission (SSC) conducts the Combined Graduate Level (CGL) Exam for recruitment to various subordinate services like:  </b>
+<br>
 
 • Assistants in Ministries/Departments, Attached and Subordinate office of the Govt. of India.  
 • Inspectors of Central Excise & Customs.  
@@ -39,14 +42,10 @@ The Staff Selection Commission (SSC) conducts the Combined Graduate Level (CGL) 
 
 ***
 
-{{< youtube id="w7Ft2ymGmfc" autoplay="false" >}}
-
-***
-
-## EXAM PATTERN
+### EXAM PATTERN
 
 
->The selection procedure of SSC Graduate Level Exam 2017 will be based on four stages known as tiers. –
+<b> The selection procedure of SSC Graduate Level Exam 2017 will be based on four stages known as tiers. –  
 
 Tier 1 (Preliminary) - Written Examination (Objective Multiple Choice Type)
 
@@ -54,13 +53,13 @@ Tier 2 (Mains) - Written Examination (Objective Multiple Choice Type)
 
 Tier 3 (Descriptive Test) - Essay / Passage / Application / Letter Writing
 
-Tier 4 (DEST/CPT) - Computer Proficiency Test / Data Entry Skill Test / Document Verification**
+Tier 4 (DEST/CPT) - Computer Proficiency Test / Data Entry Skill Test / Document Verification** </b>
 
-## Scheme Of Tier-1 Examination  
+### Scheme Of Tier-1 Examination  
 
 <img src="/img/banners/ssc-tier1.jpg" style="max-width: 100%;"/>  
 
-## Scheme Of Tier-2 Examination  
+### Scheme Of Tier-2 Examination  
 
 <img src="/img/banners/ssc-tier2.jpg" style="max-width: 100%;"/>
 
@@ -81,28 +80,25 @@ Tier-I for Paper-IV i.e. for the posts of Assistant Audit Officer/ Assistant Acc
 Officer.  
 
 
-## Scheme Of Tier-3 Examination   
+### Scheme Of Tier-3 Examination   
 
 <img src="/img/banners/ssc-tier3.jpg" style="max-width: 100%;"/>  
 
 Computer Proficiency Test/ Skill Test (wherever applicable)/ Document
 Verification will also be conducted as per the provisions of the notice of examination.
 
-## ELIGIBILITY
+### SYLLABUS
 
+<b> Syllabus for Tier-I of the Examination.  </b>
 
-## SYLLABUS
+<b> Syllabus for Tier-II of the Examination.  
+</b>
+####  Skill Test: 
 
-<b> Syllabus for Tier-I of the Examination.  
-
-<b> Syllabus for Tier-II of the Examination.
-
-<b> Skill Test: 
-
-<b> Date Entry Skill Test (DEST): For the post of Tax Assistants (Central Excise
+#####  Date Entry Skill Test (DEST):  
+ For the post of Tax Assistants (Central Excise
 & Income Tax): Data Entry Speed Test (DEST) at 8,000 (eight thousand) Key
-Depression per hour on Computer:  
-The “Data Entry Speed Test” Skill Test will be conducted for a passage of about
+Depression per hour on Computer: The “Data Entry Speed Test” Skill Test will be conducted for a passage of about
 2000 (two thousand) key depressions for a duration of 15 (fifteen) minutes. This test
 will be of qualifying nature. Computers for the test will be provided by the
 Commission at the Centre/ venue notified for the purpose. The Skill Test will be held
@@ -113,7 +109,7 @@ declared qualified for appearing in Skill Test. Information about evaluation of 
 Test/ DEST are available on the Commission’s website www.ssc.nic.in (Candidate’s
 Corner).
 
-<b> Computer Proficiency Test (CPT):  
+##### Computer Proficiency Test (CPT):  
 The Commission will hold Computer
 Proficiency Test (CPT), comprising of three modules – (i) Word Processing, (ii)
 Spread Sheet and (iii) Generation of Slides, for the posts of Assistant Section Officer
@@ -123,7 +119,7 @@ Ministry of Mines. The CPT will be conducted in the manner decided by the
 Commission for the purpose. No exemption from CPT is allowed for any category of
 PwD candidates. CPT will be of qualifying nature.
 
-<b> Document Verification (DV):  
+#####  Document Verification (DV):  
 All the candidates qualified for Document Verification are required to come for
 Document Verification. Those who fail to do so will not be considered for any
 post at the time of final selection. Candidates will have to submit copies of
@@ -134,7 +130,7 @@ verification. Information about the required documents will be provided while ca
 candidates for DV. Detailed options for posts will be taken either online or at the time
 of document verification. 
 
-## Application Fee & Mode of Payment:  
+### Application Fee & Mode of Payment:  
 
 (i) Fee payable: Rs. 100/- (Rupees One Hundred only).  
 
@@ -159,8 +155,7 @@ entertained. Fee once paid shall not be refunded under any
 circumstances nor will it be adjusted against any other examination or
 selection.  
 
-## Important Books for SSC-CGL
+### Important Books for SSC-CGL
 
-1.  [ NCERT Books Set for IAS](http://amzn.in/0YBBrE9)
 
 
