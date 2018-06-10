@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+  {{ partial "head.html" . }}
+
+  <body>
+
+    <div id="all">
+
+        <header>
+
+          {{ partial "nav.html" . }}
+
+        </header>
+
+        {{ $data_partial := (partial (printf "%s" .Params.data_file) .) }}
+
+        {{ $data_partial }}
+
+        <div id="content">
+            {{ if isset .Params "id" }}
+
+              {{ partial .Params.id . }}
+
+            {{ else }}
+
+            <div class="container">
+
+                <div class="row">
+
+                    <div class="col-md-9">
+
+                        <div>
+                          {{ .Content }}
+                        </div>
+
+                    </div>
+                    <div class="container-fluid col-md-offset-9" style="background: #50b6f3;padding: 33px; height: 591px">
+                      <div>
+                      <div class="heading">
+                        <h3 style="border-bottom: solid 5px #fff;">Registration</h3>
+                      </div>
+                    <form class="registration-form" method="post" onSubmit='alert("Thank you for your feedback.");' netlify-honeypot="bot-field" name="contact-us-page" netlify>
+                      <p class="hidden">
+                          <label>Don’t fill this out if you're human: <input name="bot-field"></label>
+                      </p>
+                        <div class="row">
+                                <div class="form-group">
+                                  <label for="name">{{ i18n "contactName" }}</label>
+                                    <input type="text" class="form-control" name="name" id="name" required>
+                                </div>
+                                <div class="form-group">
+                                    <label for="email">{{ i18n "contactMail" }}</label>
+                                    <input type="text" class="form-control" name="email" id="email" data-rule="email" data-msg="Please enter a valid email" required>
+                            </div>
+                                <div class="form-group">
+                                  <label for="phone">Phone Number</label>
+                                    <input type="text" class="form-control" name="phone" id="phone" required>
+                            </div>
+                                <div class="form-group"> <!-- Date input -->
+                                    <label for="date">Date of Birth</label>
+                                    <input class="form-control" id="date" name="date" placeholder="DD/MM/YYYY" type="text" required>
+                            </div>
+                                <div class="form-group">
+                                    <label for="address">Address</label>
+                                    <input type="text" class="form-control" name="address" id="address" required>
+                            </div>
+
+                            <div style="margin-bottom: 30px;" data-netlify-recaptcha></div>
+
+                            <div class="text-center">
+                              <button type="submit" class="btn btn-template-main"><i class="fa fa-envelope-o"></i>Submit</button>
+
+                            </div>
+                        </div>
+                        <!-- /.row -->
+                    </form>
+                  </div>
+                  </div>
+                </div>
+                <!-- /.row -->
+
+            </div>
+            <!-- /.container -->
+
+            {{ end }}
+        </div>
+        <!-- /#content -->
+
+        {{ partial "footer.html" . }}
+
+    </div>
+    <!-- /#all -->
+
+    {{ partial "scripts.html" . }}
+
+  </body>
+</html>

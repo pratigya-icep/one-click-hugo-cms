@@ -2,7 +2,7 @@
 title = "upsc"
 description = "Frequently asked questions"
 #keywords = ["FAQ","How do I","questions","what if"]
-layout = "course"
+layout = "course-register"
 #type = "course"
 data_file = "registrationcarousel.html"
 carousel = true
@@ -12,30 +12,30 @@ carousel = true
 # GS + CSAT  
 ## Pre-cum-Mains Foundation Course for CSE 2019
 
->
-This batch is exclusively designed for comprehensive coverage of both preliminary and main syllabus. The subjects will be taught by highly qualified faculties having vast experience in the domain of Civil Services Examination. The faculty members are very dedicated and regular doubt clearing sessions are planned to improve the weaker areas. This batch is embedded with current approach including regular newspaper analysis. The subject content will be taught from basics in order to improve the foundation of the subjects. Intensive writing skill sessions will be conducted to develop presentation techniques. Systematic approach will be followed to cover both international and domestic issues efficiently. At Pratigya individual attention will be paid and regular counseling and motivational sessions will be conducted by experts. 
+
+This batch is exclusively designed for comprehensive coverage of both preliminary and main syllabus. The subjects will be taught by highly qualified faculties having vast experience in the domain of Civil Services Examination. The faculty members are very dedicated and regular doubt clearing sessions are planned to improve the weaker areas. This batch is embedded with current approach including regular newspaper analysis. The subject content will be taught from basics in order to improve the foundation of the subjects. Intensive writing skill sessions will be conducted to develop presentation techniques. Systematic approach will be followed to cover both international and domestic issues efficiently. At Pratigya individual attention will be paid and regular counseling and motivational sessions will be conducted by experts.
 
 </br>
 
 ## Course Features
 
-•	Best pool of faculty. 
+•	Best pool of faculty.
 
-•	Comprehensive coverage of both prelims and main syllabus. 
+•	Comprehensive coverage of both prelims and main syllabus.
 
-•	Around 800 teaching hours. 
+•	Around 800 teaching hours.
 
-•	Updated and revised study material. 
+•	Updated and revised study material.
 
-•	Regular assessment of performance through well planned test series. 
+•	Regular assessment of performance through well planned test series.
 
-•	Facility of online learning platform - The Current Affairs channel. 
+•	Facility of online learning platform - The Current Affairs channel.
 
-•	Regular doubt clearing sessions. 
+•	Regular doubt clearing sessions.
 
-•	Motivational sessions. 
+•	Motivational sessions.
 
-•	Classes to be conducted with regularity and at a time one or two. 
+•	Classes to be conducted with regularity and at a time one or two.
 
 </br>
 
