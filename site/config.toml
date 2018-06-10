@@ -108,7 +108,7 @@ paginate = 10
 
 [[menu.main]]
     name = "SSC"
-#    url  = "/courses/SSC"
+    url  = "/courses/ssc"
     weight = 7
     identifier = "ssc"
     parent = "courses"
@@ -117,25 +117,25 @@ paginate = 10
 [[menu.main]]
     parent = "ssc"
     name = "About SSC"
-#    url  = "/UPPSC/bank-po"
+    url  = "/courses/ssc"
     weight = 1
 
 [[menu.main]]
     parent = "ssc"
     name = "SSC Classroom Course"
-#    url  = "/UPPSC/bank-po"
+    url  = "/courses/ssc"
     weight = 2
 
 [[menu.main]]
     parent = "ssc"
     name = "SSC Postal Course"
-#    url  = "/UPPSC/bank-po"
+    url  = "/courses/ssc"
     weight = 3
 
 [[menu.main]]
     parent = "ssc"
     name = "SSC Notification"
-#    url  = "/UPPSC/bank-po"
+    url  = "/courses/ssc"
     weight = 4
 
 [[menu.main]]

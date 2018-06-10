@@ -11,10 +11,9 @@ carousel = true
 
 ___
 
-### Important Books for IAS 
+### Important Books for IAS
+#### Essential IAS Books for UPSC Prelims :
 
-#### Essential IAS Books for UPSC Prelims : 
- 
 1.  [ NCERT Books Set for IAS](http://amzn.in/0YBBrE9)    
 2.  [India's Struggle for Independence - Bipan Chandra.](http://amzn.in/d2T0tRe)(HISTORY)  
 3.  [The Wonder that was India - Satish Chandra.](http://amzn.in/ap0DPbH)(CULTURE)   
@@ -45,6 +44,5 @@ ___
 12. [Challenges to Internal Security of India.]( http://amzn.in/cAubmBN) (Internal Security – GS3)  
 13. [Lexicon for Ethics, Integrity, and Aptitude.]( http://amzn.in/bHHTq5H) ( Ethics – GS4)  
 14. [IAS Mains General Studies – Ethics.](http://amzn.in/2H4QU01) ( Arihant Manual – GS4)  
-
 
 ___
