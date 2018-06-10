@@ -31,7 +31,7 @@ paginate = 10
 
 [[menu.main]]
     name = "UPSC"
-    url  = "/upsc"
+    url  = "/courses/upsc"
     weight = 5
     identifier = "upsc"
     parent = "courses"
@@ -40,42 +40,42 @@ paginate = 10
 [[menu.main]]
     parent = "upsc"
     name = "About UPSC"
-    url  = "/upsc#about-upsc"
+    url  = "/courses/upsc#about-upsc"
     weight = 1
 
 [[menu.main]]
     parent = "upsc"
     name = "GS (Prelims-2019)"
-    url  = "/upsc#about-upsc"
+    url  = "/classroom-courses/#fee-structure"
     weight = 4
 
 [[menu.main]]
     parent = "upsc"
     name = "GS (Pre-cum-Mains-2019)"
-    url  = "/UPSC/GS-2019"
+    url  = "/classroom-courses/#fee-structure"
     weight = 4
 
 [[menu.main]]
     parent = "upsc"
     name = "Classroom Course"
-    url  = "/UPSC/GS-2019"
+    url  = "/classroom-courses"
     weight = 5
 
 [[menu.main]]
     parent = "upsc"
     name = "Postal Course"
-    url  = "/UPSC/GS-2019"
+    url  = "/postal-courses"
     weight = 6
 
 [[menu.main]]
     parent = "upsc"
     name = "FAQ's"
-    url  = "/UPSC/GS-2019"
+#    url  = "/UPSC/GS-2019"
     weight = 7
 
 [[menu.main]]
     name = "SPSC"
-    url  = "/courses/SPSC"
+#    url  = "/courses/SPSC"
     weight = 6
     identifier = "spsc"
     parent = "courses"
@@ -424,8 +424,8 @@ paginate = 10
 [params]
     viewMorePostLink = "/blog/"
     author = "DevCows"
-    defaultKeywords = ["devows", "hugo", "go"]
-    defaultDescription = "Site template made by devcows using hugo"
+    defaultKeywords = ["PratigyaICEP", "Institute for Competitive Exam Preparation", "IAS Exam Preparation"]
+    defaultDescription = "PratigyaICEP or Pratigya Institute for Competitive Exam Preparation is the best institute for competitive exam preparation"
 
     # Google Maps API key (if not set will default to not passing a key.)
     googleMapsApiKey = "AIzaSyC3YLYEQhmzQbLBGSOf9SuVUKvtbkRi2IY"
@@ -462,8 +462,8 @@ paginate = 10
         <br>New Delhi-110008
       </p>
       """
-    latitude = "28.6441563"
-    longitude = "77.1756787"
+    latitude = 28.6441563
+    longitude = 77.1756787
 
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"

@@ -1,5 +1,5 @@
 {
   "weight": 2,
   "title": "Quick Links",
-  "items" : [ { "text":"Classroom Course", "url": "classroom-courses"},{ "text":"Postal Course", "url": "postal-courses"},{ "text":"Student Enquiry", "url": ""},{ "text":"Online Registration", "url": ""}]
+  "items" : [ { "text":"Classroom Course", "url": "/classroom-courses"},{ "text":"Postal Course", "url": "/postal-courses"},{ "text":"Student Enquiry", "url": "/contact"},{ "text":"Online Registration", "url": "/register"}]
 }
