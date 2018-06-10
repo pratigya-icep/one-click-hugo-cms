@@ -1,7 +1,7 @@
 +++
-title = "ssc"
-description = "Frequently asked questions"
-#keywords = ["FAQ","How do I","questions","what if"]
+title = "Staff Selection Commission"
+description = "SSC is the leading Govt. organization that provides employment to lakhs of students in India. A great opportunity lies ahead for all the SSC aspirants."
+#keywords = ["About SSC", "SSC Exam Pattern", "CGL 2018"]
 layout = "course"
 #type = "course"
 data_file = "ssccarousel.html"
@@ -155,7 +155,6 @@ entertained. Fee once paid shall not be refunded under any
 circumstances nor will it be adjusted against any other examination or
 selection.  
 
-### Important Books for SSC-CGL
 
 
 
