@@ -1,7 +1,7 @@
 +++
-title = "upsc"
-description = "Frequently asked questions"
-#keywords = ["FAQ","How do I","questions","what if"]
+title = "Registration Form"
+description = "Pre-cum-Mains Foundation Course for CSE 2019"
+#keywords = ["IAS Foundation Course", "Prelims Foundation Course"]
 layout = "course-register"
 #type = "course"
 data_file = "registrationcarousel.html"
