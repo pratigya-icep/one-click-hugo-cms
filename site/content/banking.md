@@ -4,7 +4,7 @@ description = "Frequently asked questions"
 #keywords = ["FAQ","How do I","questions","what if"]
 layout = "course"
 #type = "course"
-data_file = "ssccarousel.html"
+data_file = "upsccarousel.html"
 carousel = true
 +++
 
@@ -12,21 +12,9 @@ carousel = true
 >
 Staff Selection Commission of India has announced the SSC Calendar for the new dates for SSC CGL 2018. SSC CGL 2018 Notification is expected to be released on 5th May 2018. The SSC CGL 2018 Tier-1 Exam will be conducted from 25th July to 20th August 2018.
 Staff Selection Commission or SSC has been one of the most desirable organizations for Government exams in India. It conducts Combined Graduate Level - SSC CGL exam every year for recruitment to non-technical Group ‘B’ and Group ‘C’ non gazetted posts in various Ministries/ Departments/ Organizations of the Government of India.
-Every year thousands of vacancies are filled by SSC in Government departments. Govt. jobs are the most sought after career choice in India. More so, the government is focusing on providing better facilities and services in every aspect of our lives. Govt is focusing on the development of our country and to do that millions of Jobs will be created in the coming years. SSC is the leading Govt. organization that provides employment to lakhs of students in India. A great opportunity lies ahead for all the SSC aspirants.
-The Staff Selection Commission (SSC) conducts the Combined Graduate Level (CGL) Exam for recruitment to various subordinate services like:  
+Every year thousands of vacancies are filled by SSC in Government departments. Govt. jobs are the most sought after career choice in India. More so, the government is focusing on providing better facilities and services in every aspect of our lives. Govt is focusing on the development of our country and to do that millions of Jobs will be created in the coming   
 
-• Assistants in Ministries/Departments, Attached and Subordinate office of the Govt. of India.
-• Inspectors of Central Excise & Customs.
-• Inspectors of Income Tax.
-• Preventive Officers in Customs.
-• Examiner in Customs.
-• Sub-Inspectors in Central Bureau of Narcotics & CBI.
-• Assistant Enforcement Officer in Directorate of Enforcement, Department of Revenue.
-• Divisional Accountant, Jr. Accountant, Auditor & UDCs in various offices of Govt. of India.
-• Auditor Offices under C&AG, CGDA, CGA & others.
-• Accountant/ Junior Accountant
-• Tax Assistant in CBDT and CBEC
-• Compiler in Registrar General of India.
+• 
 
 ***
 

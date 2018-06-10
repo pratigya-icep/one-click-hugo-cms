@@ -4,7 +4,7 @@ description = "Frequently asked questions"
 #keywords = ["FAQ","How do I","questions","what if"]
 layout = "course"
 #type = "course"
-data_file = "upsccarousel.html"
+data_file = "ssccarousel.html"
 carousel = true
 +++
 
